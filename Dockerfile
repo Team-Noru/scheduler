@@ -1,5 +1,5 @@
 # 1️⃣ Build Stage
-FROM gradle:8.5-jdk17 AS builder
+FROM gradle:8.14.0-jdk17 AS builder
 WORKDIR /app
 
 COPY . .
