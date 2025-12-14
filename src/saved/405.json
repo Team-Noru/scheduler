@@ -1,0 +1,26 @@
+{
+  "title": "[인사] 삼성바이오로직스",
+  "description": "삼성바이오로직스, 사회",
+  "content": "◇ 부사장 승진\n    ▲ 김희정 ▲정형남\n\n    ◇ 상무 승진\n    ▲안소연 ▲유동선 ▲차영필 ▲황준호 \n\n /연합뉴스",
+  "published_at": "2025-11-25T11:10:05+09:00",
+  "author": "YONHAP",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/202511253953Y",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "삼성바이오로직스": {
+        "original_mention": "삼성바이오로직스",
+        "mapped_name": "삼성바이오로직스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "인사 발표 관련 중립적 정보",
+        "stock_code": "207940"
+      }
+    },
+    "relations": []
+  }
+}

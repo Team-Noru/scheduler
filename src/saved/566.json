@@ -1,0 +1,81 @@
+{
+  "title": "[마켓인사이트] 하이자산운용·투자선물 인수전…우리금융지주·키움證 등 7곳 참여",
+  "description": "하이자산운용·투자선물 인수전…우리금융지주·키움證 등 7곳 참여, 신한금융지주는 불참",
+  "content": "▶마켓인사이트 2월 18일 오후 5시\n\nDGB금융지주가 매물로 내놓은 하이자산운용과 하이투자선물 인수전에 우리금융지주 키움증권·키움투자자산운용 컨소시엄 등 7곳이 참여했다. 유력 인수 후보로 거론되던 신한금융지주는 참여하지 않았다.\n\n18일 투자은행(IB)업계에 따르면 DGB금융지주와 매각주관사 딜로이트안진이 이날 두 회사의 매각을 위한 예비입찰을 진행한 결과 우리금융지주를 비롯해 키움증권 컨소시엄 등 7곳의 투자자가 입찰에 참여한 것으로 확인됐다.\n\n매각 측은 적격 인수후보(쇼트리스트)를 선정해 한 달가량 실사 기회를 줄 계획이다. 이르면 다음달 말 본입찰을 할 예정이다. 하이자산운용과 하이투자선물은 지난해 11월 현대중공업그룹에서 DGB금융지주에 편입된 하이투자증권의 자회사다. 하이투자증권은 하이자산운용 지분 94.42%, 하이투자선물 지분 65.22%를 보유 중이다.\n\nDGB금융지주는 하이자산운용이 DGB자산운용과 사업 부문이 일정 부분 겹치고 시너지가 크지 않다고 판단, 매각을 타진해왔다. 예상 매각가는 두 회사를 합쳐 1200억원 수준으로 추정된다.\n\n유력 인수 후보인 우리금융지주는 과거 민영화 과정에서 비은행 계열사를 대부분 매각해 자산운용사 등의 인수에 관심이 높은 것으로 알려졌다. 우리금융지주는 하이자산운용 외에 매물로 나와 있는 동양자산운용, ABL자산운용 등의 인수도 타진하고 있는 것으로 전해졌다.\n\n키움증권 컨소시엄은 운용사업 확대와 대체투자 부문 강화를 위해 하이자산운용 인수전에 뛰어들었다. 키움증권은 운용자산 11조원 규모의 하이자산운용 인수에 성공하면 단번에 국내 자산운용 부문 4위권으로 올라설 수 있다. 2017년 현대자산운용 인수전에서 고배를 마신 적이 있는 키움증권은 지난해부터 대체투자 분야 경쟁력을 갖춘 하이자산운용 인수에 관심을 보여왔다.\n\n두 곳 외 참여자들의 면면은 아직 밝혀지지 않았다. 외국계 금융회사 등이 입찰에 참여한 것으로 알려졌다. IB업계 관계자는 “하이자산운용은 대체투자에 강점을 가지고 있고 인수 부담도 작아 인기가 많은 매물”이라며 “다만 동양, ABL자산운용 등 다른 자산운용사들의 매각 협상이 진행되고 있다는 점은 변수”라고 말했다.\n\n황정환 기자 jung@hankyung.com",
+  "published_at": "2019-02-18T17:54:12+09:00",
+  "author": "황정환",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/2019021818721",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "DGB금융지주": {
+        "original_mention": "DGB금융지주",
+        "mapped_name": "DGB금융지주",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "매각을 진행 중인 회사로 중립적인 상황.",
+        "stock_code": null
+      },
+      "우리금융지주": {
+        "original_mention": "우리금융지주",
+        "mapped_name": "우리금융지주",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "인수전에 참여하여 자산운용사 인수에 관심을 보임.",
+        "stock_code": null
+      },
+      "키움증권": {
+        "original_mention": "키움증권",
+        "mapped_name": "키움증권",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "운용사업 확대와 대체투자 부문 강화를 위해 인수전에 참여.",
+        "stock_code": null
+      },
+      "신한지주": {
+        "original_mention": "신한금융지주",
+        "mapped_name": "신한지주",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "유력 인수 후보였으나 인수전에 참여하지 않음.",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "DGB금융지주",
+        "target": "우리금융지주",
+        "relation_type": "매각",
+        "relation_reason": "DGB금융지주가 하이자산운용과 하이투자선물 매각을 진행 중이며, 우리금융지주가 인수전에 참여.",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": null,
+        "target_is_listed": true,
+        "target_country": "Korea",
+        "target_ticker": null
+      },
+      {
+        "source": "DGB금융지주",
+        "target": "키움증권",
+        "relation_type": "매각",
+        "relation_reason": "DGB금융지주가 하이자산운용과 하이투자선물 매각을 진행 중이며, 키움증권이 인수전에 참여.",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": null,
+        "target_is_listed": true,
+        "target_country": "Korea",
+        "target_ticker": null
+      }
+    ]
+  }
+}

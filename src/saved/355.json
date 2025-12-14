@@ -1,0 +1,39 @@
+{
+  "title": "신한라이프 신임사장 후보에 천상영 신한지주 부사장",
+  "description": "신한라이프 신임사장 후보에 천상영 신한지주 부사장, 사회",
+  "content": "신한자산운용 사장 후보에 이석원 전 국민연금 기금운용본부 전략부문장\n                    \n                        \n                            \n[IMG]\n\n                            \n                        \n                        \n                    \n                 신한금융지주 자회사최고경영진후보추천위원회(이하 자경위)는 5일 오전 회의를 열어 신한라이프 신임 사장 후보로 천상영 지주회사 그룹재무부문 담당 부사장을 추천했다.\n\n  1969년생인 천 후보는 1994년 신한은행에 입사해 대림중앙지점장 등을 거쳐 신한카드 글로벌사업본부장, 신한금융지주 본부장 등을 역임했다.\n\n  자경위는 \"새 리더십을 통해 질적 성장을 추구할 시점\"이라며 \"천 후보가 재무·경영관리 분야 전문성을 살려 신한라이프를 더 탄탄한 회사로 업그레이드해 주길 바란다\"고 밝혔다.\n\n  \n                    \n                        \n                            \n[IMG]\n\n                            \n                        \n                        \n                    \n                    아울러 자경위는 이날 신한자산운용 신임 사장 후보로 이석원 전 국민연금공단 기금운용본부 전략부문장도 추천했다.\n\n  기금운용본부 사상 최초로 공모를 통해 주식운용실장으로 영입된 뒤, 성공적으로 안착해 전략부문장까지 역임한 자산운용 전문가라는 게 신한 측의 설명이다.\n\n  이승수 신한자산신탁 사장, 강병관 신한EZ손해보험 사장은 임기 종료를 앞두고 연임 추천을 받았다.\n\n  이들 자경위 추천 후보는 각 계열사 임원후보추천위원회 등에서 자격요건·적합성 등 관련 검증을 거쳐 각 사 주주총회와 이사회에서 최종 선임될 예정이다.\n\n  /연합뉴스",
+  "published_at": "2025-12-05T14:04:55+09:00",
+  "author": "YONHAP",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202512/AKR20251205088600002_01_i_P4.jpg",
+    "https://img.hankyung.com/photo/202512/AKR20251205088600002_02_i_P4.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202512/ZK.42590581.1.jpg",
+  "content_url": "https://www.hankyung.com/article/202512056264Y",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "신한지주": {
+        "original_mention": "신한라이프",
+        "mapped_name": "신한지주",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "신임 사장 후보 추천 소식",
+        "stock_code": null
+      },
+      "국민연금공단": {
+        "original_mention": "국민연금",
+        "mapped_name": "국민연금공단",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "전략부문장 출신 인사 추천",
+        "stock_code": null
+      }
+    },
+    "relations": []
+  }
+}

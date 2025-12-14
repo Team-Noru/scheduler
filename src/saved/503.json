@@ -1,0 +1,116 @@
+{
+  "title": "27일, 기관 거래소에서 NAVER(-4.55%), KODEX 200선물인버스2X(-1.36%) 등 순매도",
+  "description": "27일, 기관 거래소에서 NAVER(-4.55%), KODEX 200선물인버스2X(-1.36%) 등 순매도, 증권",
+  "content": "기관 투자자는 27일 거래소에서 NAVER, KODEX 200선물인버스2X, 한화오션 등을 중점적으로 매도한 것으로 나타났다.\n\n기관 투자자의 순매도 상위 20개 종목은 NAVER, KODEX 200선물인버스2X, 한화오션, TIGER 미국S&amp;P500, HD현대중공업, KODEX 레버리지, LG화학, KODEX 미국S&amp;P500, 이수페타시스, KODEX 200등이다.\n\n이중에 운수장비 업종에 속한 종목이 2개 포함되어 있다.\n\nTIGER 미국S&amp;P500, KODEX 레버리지, KODEX 미국S&amp;P500 등은 전일 대비 주가가 상승했고, NAVER, KODEX 200선물인버스2X, 한화오션 등은 주가가 하락했다.\n\n[11월27일]거래소 기관 순매도 상위 종목\n\n\n\n\n\n한경로보뉴스\n\n이 기사는 한국경제신문과 금융 AI 전문기업 씽크풀이 공동 개발한 기사 자동생성 알고리즘에 의해 실시간으로 작성된 것입니다.",
+  "published_at": "2025-11-27T18:35:15+09:00",
+  "author": "한경로보뉴스",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/202511270462L",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "NAVER": {
+        "original_mention": "NAVER",
+        "mapped_name": "NAVER",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "주가 하락",
+        "stock_code": "035420"
+      },
+      "KODEX 200선물인버스2X": {
+        "original_mention": "KODEX 200선물인버스2X",
+        "mapped_name": "KODEX 200선물인버스2X",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "주가 하락",
+        "stock_code": null
+      },
+      "한화오션": {
+        "original_mention": "한화오션",
+        "mapped_name": "한화오션",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "주가 하락",
+        "stock_code": "042660"
+      },
+      "TIGER 미국S&P500": {
+        "original_mention": "TIGER 미국S&P500",
+        "mapped_name": "TIGER 미국S&P500",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "주가 상승",
+        "stock_code": null
+      },
+      "HD현대중공업": {
+        "original_mention": "HD현대중공업",
+        "mapped_name": "HD현대중공업",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "",
+        "stock_code": "329180"
+      },
+      "KODEX 레버리지": {
+        "original_mention": "KODEX 레버리지",
+        "mapped_name": "KODEX 레버리지",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "주가 상승",
+        "stock_code": null
+      },
+      "LG화학": {
+        "original_mention": "LG화학",
+        "mapped_name": "LG화학",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "",
+        "stock_code": "051910"
+      },
+      "KODEX 미국S&P500": {
+        "original_mention": "KODEX 미국S&P500",
+        "mapped_name": "KODEX 미국S&P500",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "주가 상승",
+        "stock_code": null
+      },
+      "이수페타시스": {
+        "original_mention": "이수페타시스",
+        "mapped_name": "이수페타시스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "",
+        "stock_code": "007660"
+      },
+      "KODEX 200": {
+        "original_mention": "KODEX 200",
+        "mapped_name": "KODEX 200",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "",
+        "stock_code": null
+      }
+    },
+    "relations": []
+  }
+}

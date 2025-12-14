@@ -1,0 +1,95 @@
+{
+  "title": "조원태 회장, 대한항공 지분 인수 캐나다 웨스트젯 이사로",
+  "description": "조원태 회장, 대한항공 지분 인수 캐나다 웨스트젯 이사로, 대한항공 2.17억달러에 웨스트젯 지분 10% 인수 캐나다 등 북미노선 확대 효과 기대",
+  "content": "[IMG]\n\n                            \n                        \n                        \n                    \n                대한항공은 캐나다 2대 항공사 웨스트젯 지분 10% 인수를 완료했다고 23일 밝혔다.\n\n대한항공은 웨스트젯 지배회사인 '케스트렐 탑코' 및 '케스트렐 홀딩스'의 지분과 채권 11.02%를 2억1700만달러(약 3125억원)에 취득했다고 공시했다. 이는 웨스트젯의 지분 10%에 해당한다. 대한항공은 지난 5월 웨스트젯의 지주회사의 지분 인수 계약을 맺었다.\n\n이번 웨스트젯 지분 인수 과정에는 대한항공과 조인트벤처(JV)를 맺고 협력 관계에 있는 미국 델타항공도 참여해 웨스트젯 지분 15%(3억3000만달러)를 인수한다. 델타항공은 보유 지분 가운데 2.3%는 에어프랑스-KLM에 매각·양도했다.\n\n조원태 한진그룹 회장은 지분 인수와 함께 웨스트젯의 이사로 선임됐다. 웨스트젯 이사회는 벤저민 스미스 에어프랑스-KLM 회장, 알렉스 크루즈 전 영국항공 회장 등으로 꾸려졌다.\n\n조 회장은 2019년부터 국제 항공산업을 이끄는 국제항공운송협회(IATA)의 최고 정책 심의 및 의결기구인 집행위원회(BOG) 위원을 맡고 있다.\n\n대한항공은 이번 지분 인수로 웨스트젯과의 공동운항을 확대해 캐나다를 비롯한 북미·중남미 시장 하늘길을 넓힌다는 전략이다.\n\n국토 면적이 러시아에 이어 두 번째로 넓은 캐나다(약 998만㎢)는 항공 교통 의존도가 높다. 지난해 기준 항공 시장 규모가 330억달러(약 47조원)로 세계 7위다. \n\n김보형 기자 kph21c@hankyung.com",
+  "published_at": "2025-10-23T13:23:58+09:00",
+  "author": "김보형",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202510/01.42138004.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202510/01.42138004.1.jpg",
+  "content_url": "https://www.hankyung.com/article/202510237738i",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "대한항공": {
+        "original_mention": "대한항공",
+        "mapped_name": "대한항공",
+        "listing_status": "상장",
+        "exchange": "KRX",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "웨스트젯 지분 인수로 북미 시장 확장 기대",
+        "stock_code": "003490"
+      },
+      "웨스트젯": {
+        "original_mention": "웨스트젯",
+        "mapped_name": "웨스트젯",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Canada",
+        "sentiment": "중립",
+        "sentiment_reason": "대한항공과 델타항공의 지분 인수",
+        "stock_code": null
+      },
+      "델타항공": {
+        "original_mention": "델타항공",
+        "mapped_name": "델타항공",
+        "listing_status": "상장",
+        "exchange": "NYSE",
+        "country": "USA",
+        "sentiment": "중립",
+        "sentiment_reason": "웨스트젯 지분 인수 참여",
+        "stock_code": "DAL"
+      },
+      "에어프랑스-KLM": {
+        "original_mention": "에어프랑스-KLM",
+        "mapped_name": "에어프랑스-KLM",
+        "listing_status": "상장",
+        "exchange": "Euronext",
+        "country": "France",
+        "sentiment": "중립",
+        "sentiment_reason": "델타항공으로부터 지분 일부 매입",
+        "stock_code": "AF"
+      }
+    },
+    "relations": [
+      {
+        "source": "대한항공",
+        "target": "웨스트젯",
+        "relation_type": "파트너",
+        "relation_reason": "지분 인수 및 공동운항 확대",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "003490",
+        "target_is_listed": false,
+        "target_country": "Canada",
+        "target_ticker": null
+      },
+      {
+        "source": "델타항공",
+        "target": "웨스트젯",
+        "relation_type": "파트너",
+        "relation_reason": "지분 인수 참여",
+        "source_is_listed": true,
+        "source_country": "USA",
+        "source_ticker": "DAL",
+        "target_is_listed": false,
+        "target_country": "Canada",
+        "target_ticker": null
+      },
+      {
+        "source": "델타항공",
+        "target": "에어프랑스-KLM",
+        "relation_type": "파트너",
+        "relation_reason": "지분 일부 매각",
+        "source_is_listed": true,
+        "source_country": "USA",
+        "source_ticker": "DAL",
+        "target_is_listed": true,
+        "target_country": "France",
+        "target_ticker": "AF"
+      }
+    ]
+  }
+}

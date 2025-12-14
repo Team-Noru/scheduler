@@ -1,0 +1,51 @@
+{
+  "title": "한전기술 수주공시 - 체코 두코바니 5&6호기 종합설계용역 1.25조 (매출액대비  226.0 %)",
+  "description": "한전기술 수주공시 - 체코 두코바니 5&6호기 종합설계용역 1.25조 (매출액대비 226.0 %), 증권",
+  "content": "12월 12일 한전기술(052690)은 수주공시를 발표했다.\n\n◆한전기술 수주공시 개요\n- 체코 두코바니 5&amp;6호기 종합설계용역 1.25조 (매출액대비  226.0 %)\n\n한전기술(052690)은 체코 두코바니 5&amp;6호기 종합설계용역에 관한 단일판매ㆍ공급계약체결              을 12일에 공시했다.\n계약 상대방은 한국수력원자력(주)이고, 계약금액은 1.25조 규모로 최근 한전기술 매출액 5,533.6억원 대비 약  226.0 % 수준이다. 이번 계약의 기간은 2025년 12월 12일 부터 2038년 04월 18일까지로 약 12년 4개월이다.\n한편 이번 계약수주는 2025년 12월 12일에 체결된 것으로 보고되었다.\n                    \n                        \n                            \n[IMG]\n\n                            \n                        \n                        차트\n                    \n                수주 공시는 향후 기업의 실적에 직접적인 영향을 미치기 때문에 계약의 규모, 계약 기간 등에 대해서 주의 깊게 살펴볼 필요가 있다. 특히 수주 공시가 늘어나는데 주가는 움직이지 않는다면 매수 관점에서 접근해 볼 수도 있다.\n\n한경로보뉴스\n\n이 기사는 한국경제신문과 금융 AI 전문기업 씽크풀이 공동 개발한 기사 자동생성 알고리즘에 의해 실시간으로 작성된 것입니다.",
+  "published_at": "2025-12-12T17:35:25+09:00",
+  "author": "한경로보뉴스",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202512/20251212_44478_SGOS02_052690.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202512/20251212_44478_SGOS02_052690.jpg",
+  "content_url": "https://www.hankyung.com/article/202512120896L",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "한전기술": {
+        "original_mention": "한전기술",
+        "mapped_name": "한전기술",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "체코 두코바니 5&6호기 종합설계용역 수주로 인한 긍정적 실적 전망",
+        "stock_code": "052690"
+      },
+      "한국수력원자력": {
+        "original_mention": "한국수력원자력(주)",
+        "mapped_name": "한국수력원자력",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "계약 상대방으로 언급됨",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "한전기술",
+        "target": "한국수력원자력",
+        "relation_type": "공급사",
+        "relation_reason": "체코 두코바니 5&6호기 종합설계용역 계약 체결",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "052690",
+        "target_is_listed": false,
+        "target_country": "Korea",
+        "target_ticker": null
+      }
+    ]
+  }
+}

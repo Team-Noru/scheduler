@@ -1,0 +1,51 @@
+{
+  "title": "삼성물산, GVH와 협력해 유럽과 동남아지역 SMR 사업 강화",
+  "description": "삼성물산, GVH와 협력해 유럽과 동남아지역 SMR 사업 강화, 삼성물산, GVH와 유럽·동남아·중동에 대한 전략적 파트너십 2007년 설립된 GVH는 미국 GE와 일본 히타치 합작 법인",
+  "content": "[IMG]\n\n                            \n                        \n                        \n                    \n                (오세철 삼성물산 대표(오른쪽)가 GVH 전력부문 마니 징고니 사장과 'SMR 전략적 파트너십'을 맺은 뒤 사진을 찍고 있다. 삼성물산 제공)\n\n삼성물산 건설부문이 글로벌 SMR(소형모듈원전) 개발 회사와 협력해 SMR 사업 확장에 나선다.\n\n삼성물산은 지난 6일 스웨덴 스톡홀름에서 미국 GE와 일본 히타치 합작 법인인 GVH와 유럽·동남아·중동 지역에 대한 'SMR 전략적 파트너십'을 맺었다고 9일 밝혔다.\n\n양사는 이번 협약을 계기로 삼성물산의 원전·인프라 분야의 풍부한 사업 수행 경험과 GVH의 검증된 기술을 바탕으로 글로벌 SMR 시장을 선도한다는 계획이다. 이날 행사에는 오세철 삼성물산 대표와 GVH 전력부문 마비 징고니 사장, GVH 원자력부문 제이슨 쿠퍼 사장 등 양사의 최고 경영진을 비롯한 주요 관계자가 참석했다.\n\n2007년 설립된 GVH는 비등형 경수로(BWR)를 개량한 300MW 규모의 SMR 기술(BWRX-300)을 개발하는 등 글로벌 SMR 플레이어로 평가받고 있다. BWRX-300은 서구권 최초 SMR인 캐나다 온타리오 사업에 건설이 진행 중이다. 스웨덴 국영 전력회사인 바텐폴이 스웨덴 링할스 원전 사업에 'BWRX-300'을 최종 후보로 선정한 바 있다.\n\n삼성물산은 이번 협약을 통해 GVH가 추진하는 사업 중 유럽·동남아시아·중동 지역 전략적 파트너로 SMR 사업 초기 단계부터 EPC(설계·조달·시공)까지 사업 전 과정에 참여할 예정이다.\n\n오세철 대표는 “삼성물산의 EPC 역량과 GVH의 SMR 기술을 결합해 최적의 에너지 솔루션을 제공할 계획”이며 “이번 협력을 통해 글로벌 시장에서 SMR 사업을 적극 확장해 나갈 방침”이라고 말했다. 마비 징고니 사장은 “글로벌 원자력 분야에서 다수의 성공적 수행 실적을 보유한 삼성물산과 협업을 통해 글로벌 SMR 시장 리딩 플레이어 입지를 더욱 강화할 것”이라고 강조했다.\n\n삼성물산은 GVH와 손잡고 스웨덴·에스토니아에서도 SMR 사업 영역을 확대하고 있다. 미국의 뉴스케일·플루어·사전트앤룬디와 공동으로 루마니아 SMR 사업 기본설계(FEED)를 진행하는 등 글로벌 SMR 선도 기업 위치를 확고히 잡아가고 있다. 임근호 기자",
+  "published_at": "2025-10-09T10:29:10+09:00",
+  "author": "임근호",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202510/01.41983595.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202510/01.41983595.1.jpg",
+  "content_url": "https://www.hankyung.com/article/202510099044i",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "삼성물산": {
+        "original_mention": "삼성물산",
+        "mapped_name": "삼성물산",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "GVH와의 전략적 파트너십을 통해 SMR 사업 확장을 계획하고 있음",
+        "stock_code": "028260"
+      },
+      "GVH": {
+        "original_mention": "GVH",
+        "mapped_name": "GVH",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "USA",
+        "sentiment": "긍정",
+        "sentiment_reason": "삼성물산과의 파트너십을 통해 글로벌 SMR 시장에서 입지를 강화할 계획",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "삼성물산",
+        "target": "GVH",
+        "relation_type": "파트너",
+        "relation_reason": "SMR 전략적 파트너십 체결",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "028260",
+        "target_is_listed": false,
+        "target_country": "USA",
+        "target_ticker": null
+      }
+    ]
+  }
+}

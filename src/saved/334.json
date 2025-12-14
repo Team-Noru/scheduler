@@ -1,0 +1,49 @@
+{
+  "title": "네이버, 국내 스타트업 손잡고…소버린AI 생태계 구축 본격화",
+  "description": "네이버, 국내 스타트업 손잡고…소버린AI 생태계 구축 본격화, 코리아스타트업포럼과 함께 독자 AI 모델 적용 스타트업 발굴",
+  "content": "네이버가 국내 스타트업들과 손잡고 소버린 인공지능(AI) 생태계 구축을 본격화한다.\n\n네이버클라우드, 네이버 아라비아는 코리아스타트업포럼과 함께 버티컬 AI 스타트업 육성을 위한 업무협약을 체결했다고 12일 밝혔다. 네이버클라우드가 ‘국가대표 AI’ 프로젝트로 진행 중인 독자 AI 파운데이션 모델을 기반으로 AI 스타트업 육성에 나선다. 산업별 AI 서비스를 고도화하고 국내 소버린 AI 생태계를 확대하는 게 목표다. 독자 AI 파운데이션 모델은 국내 기업이 자체 개발 및 운영하는 대규모 AI 모델을 일컫는 말로, 특정 기업·국가 의존도를 낮추고 자율적 생태계를 조성할 수 있는 기반 기술을 의미한다.\n\n네이버클라우드와 코리아스타트업포럼은 네이버의 독자 AI 기술을 적용할 수 있는 스타트업을 공동 발굴한다. 선발된 스타트업엔 공모전, 멘토링 등 다양한 지원 프로그램, 네이버의 대규모언어모델(LLM) 하이퍼클로바X와 클라우드 인프라 등 최신 AI 기술, 플랫폼 활용 환경을 제공한다.\n\n스타트업의 글로벌 진출 기회도 지원한다. 네이버 아라비아와 협력해 중동 현지 시장 정보뿐 아니라 현지 파트너사와 네트워크를 구축할 기회도 제공하기로 했다. 중동 시장은 산업별 디지털 전환과 AI 적용 수요가 빠르게 증가해 국내 스타트업이 세계로 나갈 수 있는 교두보가 될 것으로 네이버클라우드는 기대했다.\n\n김유원 네이버클라우드 대표는 “이번 협력은 국내 기술로 개발된 독자 파운데이션 모델을 스타트업을 통해 산업 전반에 확산시키고 소버린 AI 생태계를 한 단계 확장하는 데 중요한 역할을 할 것”이라며 “유망 스타트업이 글로벌 시장에서 성장할 수 있도록 아낌없이 지원하겠다”고 말했다.\n\n고은이 기자 koko@hankyung.com",
+  "published_at": "2025-12-12T17:09:52+09:00",
+  "author": "고은이",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/2025121207601",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "네이버": {
+        "original_mention": "네이버",
+        "mapped_name": "네이버",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "소버린 AI 생태계 구축을 위한 국내 스타트업과의 협력 강화",
+        "stock_code": "035420"
+      },
+      "코리아스타트업포럼": {
+        "original_mention": "코리아스타트업포럼",
+        "mapped_name": "코리아스타트업포럼",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "네이버와의 협력을 통해 스타트업 육성에 참여",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "네이버",
+        "target": "코리아스타트업포럼",
+        "relation_type": "파트너",
+        "relation_reason": "AI 스타트업 육성을 위한 업무협약 체결",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "035420",
+        "target_is_listed": false,
+        "target_country": "Korea",
+        "target_ticker": null
+      }
+    ]
+  }
+}

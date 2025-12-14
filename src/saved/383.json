@@ -1,0 +1,51 @@
+{
+  "title": "셀트리온, 미국 릴리 공장 인수 위해 7824억원 증자",
+  "description": "셀트리온, 미국 릴리 공장 인수 위해 7824억원 증자, 생산시설 인수,·운영자금에 활용",
+  "content": "[IMG]\n\n                            \n                        \n                        \n                    \n                셀트리온이 이사회 의결을 통해 셀트리온 미국 법인에(Celltrion USA)에 약 7824억원(5억 3210만 달러) 규모의 자본 증자를 11일 결정했다. 이는 미국 뉴저지주 브랜치버그 소재 일라이 릴리 바이오의약품 생산시설(이하 미국 생산시설) 인수에 사용되는 자금이다.\n\n셀트리온USA는 셀트리온의 100% 종속회사로, 이번 미국 생산시설 인수의 주체가 돼 생산시설 취득과 공장 운영에 확보 자금을 활용할 예정이다. 자본 증자는 두 차례 걸쳐 이뤄질 예정이며, 1차는 약 6555억원(4억 4580만 달러) 규모로 오는 18일에 진행된다. 2차 증자는 약 1269억원(8630만 달러) 규모로 내년 중 진행한다.\n\n셀트리온은 지난 9월 미국 제약사 일라이 릴리와 미국 뉴저지주 브랜치버그 바이오의약품 생산 공장 인수 계약을 체결했다고 밝혔다. 해당 공장은 약 약 4만5000평 부지에 생산 시설, 물류창고, 기술지원동, 운영동 등 총 4개 건물이 갖춰진 대규모 캠퍼스다. 1만1000평 가량의 유휴 부지도 보유하고 있다.\n\n회사는 약 4600억원 규모의 인수비용과 함께 초기 운영비용까지 포함해 약 7000억원이 투자될 것으로 봤다. 여기에 인수 직후 생산시설의 증설에 나서며, 약 7000억원이 추가로 투자될 전망이다.\n\n셀트리온은 지난달 미국 생산시설 인수를 위한 기업결합 심사 절차를 마무리한 데 이어, 자금확보도 마쳐 글로벌 생산시설 확보를 눈앞에 두게 됐다. 회사는 미국 생산시설 인수를 연내 마무리하고, 완료 즉시 해당 일라이 릴리의 원료의약품(DS)을 위탁생산(CMO) 공급할 예정이다. 이와 함께 빠른 시일내 캐파(최대 생산량) 확장을 추진해 미국 생산시설의 경쟁력을 대폭 강화할 방침이다. \n\n오현아 기자 5hyun@hankyung.com",
+  "published_at": "2025-12-11T11:07:08+09:00",
+  "author": "오현아",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202512/01.42562735.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202512/01.42562735.1.jpg",
+  "content_url": "https://www.hankyung.com/article/202512117133i",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "셀트리온": {
+        "original_mention": "셀트리온",
+        "mapped_name": "셀트리온",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "미국 릴리 공장 인수를 위한 자본 증자 결정",
+        "stock_code": "068270"
+      },
+      "일라이 릴리": {
+        "original_mention": "일라이 릴리",
+        "mapped_name": "일라이 릴리",
+        "listing_status": "상장",
+        "exchange": "NYSE",
+        "country": "USA",
+        "sentiment": "중립",
+        "sentiment_reason": "셀트리온에 공장 매각",
+        "stock_code": "LLY"
+      }
+    },
+    "relations": [
+      {
+        "source": "셀트리온",
+        "target": "일라이 릴리",
+        "relation_type": "공급사",
+        "relation_reason": "일라이 릴리의 공장을 인수하여 원료의약품 위탁생산 예정",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "068270",
+        "target_is_listed": true,
+        "target_country": "USA",
+        "target_ticker": "LLY"
+      }
+    ]
+  }
+}

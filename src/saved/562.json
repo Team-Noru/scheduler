@@ -1,0 +1,95 @@
+{
+  "title": "우리금융지주 공식 출범…\"1등 종합금융그룹 도약\"",
+  "description": "우리금융지주 공식 출범…1등 종합금융그룹 도약, 우리금융지주 출범식 개최",
+  "content": "우리금융지주가 14일 서울 회현동 본점에서 출범식을 개최하고 지주사 체제 전환을 공식 선포했다.\n\n\n                    \n                        \n                            \n[IMG]\n\n                            \n                        \n                        손태승 우리금융그룹 회장 겸 우리은행장(사진=연합뉴스)\n                    \n                2014년 11월 정부가 공적자금 회수를 위해 민영화를 추진하는 과정에서 계열사들을 매각하고 은행 체제로 바꾼 지 4년 2개월 만의 부활이다. 우리금융지주는 지난 11일 지주사 설립 등기를 마치고 이날 출범식을 개최했다. \n\n손태승 우리금융지주 회장 겸 우리은행장(사진)은 출범사에서 \"지주사 출범을 통해 다른 금융그룹과 대등하게 경쟁할 수 있게 됐다\"며 \"적극적인 사업포트폴리오 재구축과 글로벌 전략 추진을 통해 대한민국 1등 종합금융그룹을 달성하고, 글로벌 강자로 도약하겠다\"고 말했다.\n\n손 회장은 \"디지털혁신으로 우리나라 금융시장의 변혁을 촉진하고 금융 취약계층과 혁신기업, 중소기업을 위한 사회적책임 실천에도 우리금융그룹이 앞장설 것\"이라고 덧붙였다.\n\n우리금융지주는 우리은행, 우리FIS, 우리금융경영연구소, 우리신용정보, 우리펀드서비스, 우리PE자산운용 등 6개사를 자회사로 두게 됐다. 우리카드와 우리종금은 가까운 시일 내에 지주 자회사로 편입할 계획이다.\n\n우리금융지주에는 그룹 내외부에서 선발된 80여 명의 임직원이 근무한다. 설립 초기 필수업무 중심으로 4본부·10부·1실의 최소 규모 조직으로 구성했다는 설명이다.\n\n우리금융의 부활로 국내 금융시장은 KB금융·신한금융·하나금융·농협금융 등 5대 지주사 시대가 열리게 됐다.\n\n우리금융그룹은 앞으로 비은행 인수합병(M&amp;A)을 통해 규모를 키워 '리딩 금융그룹' 쟁탈전 채비에 나설 전망이다. 선두권에 있는 KB금융과 신한금융 간 경쟁이 가열될 전망인 가운데 우리금융그룹의 참전으로 향후 금융지주사 간 경쟁전이 심화할 것으로 관측된다.\n\n한편, 이날 출범식에 참석한 최종구 금융위원장은 \"조속한 시일 내에 예금보험공사가 보유하고 있는 잔여지분(18.4%)을 매각해 우리금융지주의 '완전한' 민영화를 추진하겠다\"고 말했다. 최 위원장은 \"정부도 우리금융의 재도약을 위해 적극 지원해 나갈 것\"이라며 이 같이 밝혔다. \n\n오정민 한경닷컴 기자 blooming@hankyung.com",
+  "published_at": "2019-01-14T10:33:25+09:00",
+  "author": "오정민",
+  "image_urls": [
+    "https://img.hankyung.com/photo/201901/ZA.18205913.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/201901/ZA.18205913.1.jpg",
+  "content_url": "https://www.hankyung.com/article/2019011409486",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "우리금융지주": {
+        "original_mention": "우리금융지주",
+        "mapped_name": "우리금융지주",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "지주사 체제 전환을 통해 경쟁력을 강화하고 글로벌 강자로 도약할 계획을 발표함",
+        "stock_code": null
+      },
+      "KB금융": {
+        "original_mention": "KB금융",
+        "mapped_name": "KB금융",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "우리금융지주의 출범으로 경쟁이 가열될 전망",
+        "stock_code": null
+      },
+      "신한지주": {
+        "original_mention": "신한금융",
+        "mapped_name": "신한지주",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "우리금융지주의 출범으로 경쟁이 가열될 전망",
+        "stock_code": null
+      },
+      "농협금융": {
+        "original_mention": "농협금융",
+        "mapped_name": "농협금융",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "우리금융지주의 출범으로 경쟁이 가열될 전망",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "우리금융지주",
+        "target": "KB금융",
+        "relation_type": "경쟁사",
+        "relation_reason": "우리금융지주의 출범으로 경쟁이 가열될 전망",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": null,
+        "target_is_listed": true,
+        "target_country": "Korea",
+        "target_ticker": null
+      },
+      {
+        "source": "우리금융지주",
+        "target": "신한지주",
+        "relation_type": "경쟁사",
+        "relation_reason": "우리금융지주의 출범으로 경쟁이 가열될 전망",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": null,
+        "target_is_listed": true,
+        "target_country": "Korea",
+        "target_ticker": null
+      },
+      {
+        "source": "우리금융지주",
+        "target": "농협금융",
+        "relation_type": "경쟁사",
+        "relation_reason": "우리금융지주의 출범으로 경쟁이 가열될 전망",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": null,
+        "target_is_listed": true,
+        "target_country": "Korea",
+        "target_ticker": null
+      }
+    ]
+  }
+}

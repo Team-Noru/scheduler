@@ -1,0 +1,49 @@
+{
+  "title": "LG, 전자·화학 사령탑 교체",
+  "description": "LG, 전자·화학 사령탑 교체, 전자 CEO 류재철·화학 김동춘 성과주의·기술인재 중시 인사",
+  "content": "[IMG]\n\n                            \n                        \n                        류재철 사장\n                    \n                LG그룹이 27일 정기 임원 인사를 통해 핵심 계열사인 LG전자와 LG화학 최고경영자(CEO)를 교체했다. 갈수록 심해지는 중국의 저가 공세와 미국의 보호무역 강화 등에 맞서 핵심사업 경쟁력을 빠르게 끌어올리기 위한 구광모 LG그룹 회장의 의지가 반영된 인사로 풀이된다. \n\nLG그룹 각 계열사는 이날 이사회 승인을 거쳐 정기 인사 및 조직 개편을 실시했다. LG전자는 신임 CEO로 생활가전(HS)사업본부장을 맡고 있는 류재철 사장을, LG화학은 첨단소재사업본부장을 지낸 김동춘 부사장을 사장으로 승진 내정했다. 신학철 LG화학 부회장과 조주완 LG전자 사장은 세대교체를 위해 물러났다. LG그룹은 신규 임원 인사에서도 연령, 성별과 관계없이 역량에 따른 성과주의 인사를 했다.\n\n\n                    \n                        \n                            \n[IMG]\n\n                            \n                        \n                        김동춘 사장\n                    \n                사업, 마케팅, 인사 분야에서 3명의 여성 임원을 신규 선임했다. LG그룹의 첫 여성 최고재무책임자(CFO)인 여명희 LG유플러스 전무는 부사장으로 승진했다. 신기술 변화에 민첩하게 대응하고 혁신을 주도하기 위해 1980년대생 상무를 3명 발탁했다.\n\n‘기술 인재’ 중시 기조는 이번 인사에서도 이어졌다. LG그룹의 핵심 미래사업인 ABC(AI·바이오·클린테크) 분야를 포함한 연구개발(R&amp;D) 인재가 전체 승진자의 21%를 차지했다. 올해 최연소로 승진한 임원(상무, 전무, 부사장)도 모두 인공지능(AI) 전문가였다.\n\n김채연/황정수 기자 why29@hankyung.com",
+  "published_at": "2025-11-27T18:05:07+09:00",
+  "author": "김채연/황정수",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202511/AA.42509388.1.jpg",
+    "https://img.hankyung.com/photo/202511/AA.42509389.1.jpg"
+  ],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/2025112703941",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "LG": {
+        "original_mention": "LG",
+        "mapped_name": "LG",
+        "listing_status": "상장",
+        "exchange": "KRX",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "임원 인사 및 조직 개편을 통한 경쟁력 강화 시도",
+        "stock_code": "003550"
+      },
+      "LG전자": {
+        "original_mention": "LG전자",
+        "mapped_name": "LG전자",
+        "listing_status": "상장",
+        "exchange": "KRX",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "CEO 교체 및 조직 개편",
+        "stock_code": "066570"
+      },
+      "LG화학": {
+        "original_mention": "LG화학",
+        "mapped_name": "LG화학",
+        "listing_status": "상장",
+        "exchange": "KRX",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "CEO 교체 및 조직 개편",
+        "stock_code": "051910"
+      }
+    },
+    "relations": []
+  }
+}

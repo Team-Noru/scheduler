@@ -1,0 +1,204 @@
+// src/analyzer.js
+require("dotenv").config();
+const OpenAI = require("openai");
+const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+
+/**
+ * corp_merged.json 구조 예시 (국내 기업만 존재)
+ * {
+ *   "name": "SK하이닉스",
+ *   "country": "Korea",
+ *   "is_listed": true,
+ *   "stockCode": "000660",
+ *   "ticker": null
+ * }
+ */
+const corpList = require("./data/corp_merged.json");
+
+// 국내 기업 맵 구성
+const corpMap = {};
+for (const c of corpList) {
+  corpMap[c.name] = c;
+}
+const corpSet = new Set(Object.keys(corpMap));
+
+/**
+ * LLM 출력 정제
+ * - ```json / ``` 제거
+ * - 혹시 섞일 수 있는 // 주석 제거 (최후 방어선)
+ */
+function cleanJSON(raw) {
+  return raw
+    .replace(/```json/g, "")
+    .replace(/```/g, "")
+    .replace(/\/\/.*$/gm, "")
+    .trim();
+}
+
+/**
+ * mapped_name 정규화
+ * - 국내 기업: corp_merged.json 공식명 유지
+ * - 해외 기업: mapped_name 비어 있으면 original_mention으로 강제 통일
+ */
+function normalizeMappedName(result) {
+  if (!result?.companies) return result;
+
+  for (const company of Object.values(result.companies)) {
+    // 해외 기업
+    if (company.country !== "Korea") {
+      if (!company.mapped_name || company.mapped_name.trim() === "") {
+        company.mapped_name = company.original_mention;
+      }
+    }
+  }
+  return result;
+}
+
+async function analyzeArticle(article) {
+  let prompt = `
+당신은 금융 뉴스 분석 전문가입니다.
+아래 규칙을 절대적으로 준수하여 "순수 JSON"만 출력하세요.
+
+============================================================
+⚠️ JSON 출력 규칙 (절대 준수)
+============================================================
+- 출력은 반드시 JSON만 허용합니다.
+- JSON 외의 말, 설명, 예시, 주석(//, /* */)은 절대 포함하면 안 됩니다.
+- 모든 값은 JSON 문법에 맞아야 합니다.
+- 값이 없을 때는 포함하지 않습니다.
+
+============================================================
+📌 1. 기업 매핑 규칙
+============================================================
+- 국내 기업 목록은 corp_merged.json에만 존재합니다.
+- 국내 기업:
+  - mapped_name은 반드시 corp_merged.json의 공식 기업명을 사용합니다.
+- 해외 기업:
+  - corp_merged.json에 존재하지 않습니다.
+  - mapped_name은 original_mention과 동일하게 합니다.
+  - mapped_name은 null 또는 빈 문자열을 허용하지 않습니다.
+
+📌 사용 가능한 국내 기업 전체 목록:
+{{CORP_LIST}}
+
+============================================================
+📌 2. 금융 계열사 → 지주사 통합 규칙 (매우 중요)
+============================================================
+다음 기업들은 반드시 아래의 "지주사 공식명"으로 정규화합니다.
+
+- "신한은행", "신한투자증권", "신한카드", "신한라이프" → "신한지주"
+- "KB증권", "KB국민은행", "KB손해보험" → "KB금융"
+- "NH투자증권", "NH농협은행" → "농협금융"
+- "우리은행", "우리카드" → "우리금융지주"
+
+⚠️ 위에 언급된 계열사명이 등장하면 mapped_name은 반드시 지주사명으로 바꿉니다.
+
+============================================================
+📌 3. stock_code 생성 규칙
+============================================================
+각 기업 object 내부에 반드시 아래 필드들이 포함되어야 합니다:
+
+"stock_code": 값
+
+규칙:
+1) 국내 기업 (country = "Korea")
+   - stock_code = corp_merged.json 안의 stockCode
+   - 없다면 반드시 null
+
+2) 해외 기업 (country ≠ "Korea")
+   - 상장됨 → stock_code = ticker
+   - 비상장 → stock_code = null
+
+⚠️ 임의 숫자 생성 금지  
+⚠️ 예시용 코드 넣기 금지  
+⚠️ 값이 없으면 반드시 null이어야 함
+
+============================================================
+📌 4. companies 스키마 (필수 구조) - mapped_name과 sentiment가 반드시 포함되어있어야 합니다.
+============================================================
+"companies": {
+  "기업명": {
+    "original_mention": "",
+    "mapped_name": "",
+    "listing_status": "상장 | 비상장",
+    "exchange": "",
+    "country": "Korea | USA | Other",
+    "sentiment": "긍정 | 부정 | 중립",
+    "sentiment_reason": "",
+    "stock_code": null
+  }
+}
+
+============================================================
+📌 5. relations 스키마 (확장된 필드 포함)
+============================================================
+
+"relations": [
+  {
+    "source": "기업명",
+    "target": "기업명",
+    "relation_type": "고객사 | 공급사 | 경쟁사 | 파트너",
+    "relation_reason": "",
+
+    "source_is_listed": true,
+    "source_country": "",
+    "source_ticker": null,
+
+    "target_is_listed": true,
+    "target_country": "",
+    "target_ticker": null
+  }
+]
+
+⚠️ relations 안에는 stock_code를 넣지 마세요.  
+⚠️ 대신 source_ticker / target_ticker만 넣습니다.
+
+============================================================
+📌 5-1. relations에 적용되는 기업명 정규화 규칙 (아주 중요)
+============================================================
+
+- relations 내부의 source, target 값은 반드시 companies 객체의
+  "mapped_name" 값과 100% 동일해야 합니다.
+
+- 즉, 금융 계열사가 등장해 companies[mapped_name]이 지주사로 통일되었으면,
+  relations 안에서도 반드시 지주사명만 사용해야 합니다.
+
+- 기사에서 관계가 명확하게 드러나지 않으면 relations 배열에 아무것도 추가하지 마세요.
+
+============================================================
+📌 6. 분석 대상 기사 제목
+{{TITLE}}
+
+📌 7. 분석 대상 기사 본문
+{{CONTENT}}
+
+============================================================
+🎯 반드시 순수 JSON만 출력하세요.
+============================================================
+
+`;
+  prompt = prompt
+    .replace("{{TITLE}}", article.title)
+    .replace("{{CONTENT}}", article.content)
+    .replace("{{CORP_LIST}}", JSON.stringify(Array.from(corpSet)));
+
+  const response = await client.chat.completions.create({
+    model: "gpt-4o",
+    messages: [{ role: "user", content: prompt }],
+    temperature: 0,
+  });
+
+  const rawOutput = response.choices[0].message.content;
+  const cleaned = cleanJSON(rawOutput);
+
+  try {
+    const parsed = JSON.parse(cleaned);
+    return normalizeMappedName(parsed);
+  } catch (err) {
+    console.error("❌ JSON 파싱 실패:");
+    console.error(cleaned);
+    throw err;
+  }
+}
+
+module.exports = analyzeArticle;

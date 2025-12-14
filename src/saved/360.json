@@ -1,0 +1,53 @@
+{
+  "title": "'하나금융지주' 52주 신고가 경신, 전일 기관 대량 순매수",
+  "description": "하나금융지주 52주 신고가 경신, 전일 기관 대량 순매수, 증권",
+  "content": "[IMG]\n\n                            \n                        \n                        \n                    \n                \n\n◆ 주체별 매매동향\n- 전일 기관 대량 순매수\n지난 한달을 기준으로 보면 기관이 89.7만주를 순매수했고, 개인들도 22.5만주를 순매수했다.  반면 그동안 외국인은 111.0만주를 순매도했다. 같은 기간 이 종목의 거래 비중은 외국인과 기관이 각각 54.1%, 25.9%로 비중이 높다.\n한편 기관은 이 종목에 대해서 최근 9일 연속 88.8만주 순매수를 하고 있다. 더욱이 전일 기관이 대량 순매수를 하고 있어 투자자들의 관심이 집중되고 있다.\n\n[그래프]하나금융지주 외국인/기관 매매동향\n\n                    \n                        \n                            \n[IMG]\n\n                            \n                        \n                        \n                    \n                \n                    \n                        \n                            \n[IMG]\n\n                            \n                        \n                        \n                    \n                \n\n◆ 최근 애널리스트 분석의견\n- 자본비율과 ROE에 주목 - 대신증권, BUY\n11월 05일 대신증권의 박혜진 애널리스트는 하나금융지주에 대해 \"대손비용, ROE, 자본비율 측면 강점으로 은행 이익 상당히 견조. 증권/캐피탈 손상차손 우려 존재, ‘27년 본격적인 턴어라운드 예상. 이익 개선+환원율 상승으로 상대적으로 높은 환원 기대\"라고 분석하며, 투자의견 'BUY', 목표주가 '110,000원'을 제시했다.\n\n한경로보뉴스\n\n이 기사는 한국경제신문과 금융 AI 전문기업 씽크풀이 공동 개발한 기사 자동생성 알고리즘에 의해 실시간으로 작성된 것입니다.",
+  "published_at": "2025-11-10T09:13:20+09:00",
+  "author": "한경로보뉴스",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202511/mod_stk_20251110_2956.jpg",
+    "https://img.hankyung.com/photo/202511/AF086790.jpg",
+    "https://img.hankyung.com/photo/202511/AO086790.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202511/mod_stk_20251110_2956.jpg",
+  "content_url": "https://www.hankyung.com/article/202511103395L",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "하나금융지주": {
+        "original_mention": "하나금융지주",
+        "mapped_name": "하나금융지주",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "기관의 대량 순매수와 애널리스트의 긍정적 분석 의견",
+        "stock_code": "086790"
+      },
+      "대신증권": {
+        "original_mention": "대신증권",
+        "mapped_name": "대신증권",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "하나금융지주에 대한 분석 의견 제공",
+        "stock_code": "003540"
+      }
+    },
+    "relations": [
+      {
+        "source": "대신증권",
+        "target": "하나금융지주",
+        "relation_type": "고객사",
+        "relation_reason": "대신증권이 하나금융지주에 대한 분석 의견을 제공",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "003540",
+        "target_is_listed": true,
+        "target_country": "Korea",
+        "target_ticker": "086790"
+      }
+    ]
+  }
+}

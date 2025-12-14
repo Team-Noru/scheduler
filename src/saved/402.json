@@ -1,0 +1,168 @@
+{
+  "title": "'선물옵션 동시만기' 코스피, 미 훈풍에도 4110선 하락 마감",
+  "description": "선물옵션 동시만기 코스피, 미 훈풍에도 4110선 하락 마감, 기관, 코스피 7900억 순매도 투자경고 지정 SK하이닉스 약세 원·달러 환율, 소폭 상승 마감",
+  "content": "[IMG]\n\n                            \n                        \n                        사진=연합뉴스\n                    \n                올해 마지막 선물·옵션 동시만기일인 11일 코스피지수가 미국 기준금리 인하 소식에도 변동성을 키운 끝에 하락 마감했다.\n\n이날 코스피지수는 전일 대비 24.38포인트(0.59%) 내린 4110.62에 거래를 마감했다. 0.68% 상승 출발한 이날 코스피지수는 장중 외국인 매도세에 하락 반전하더니 한때 내림폭을 0.77%까지 키우기도 했다.\n\n이날 새벽 미 연방공개시장위원회(FOMC)는 이틀간 정례회의를 마치고 기준금리를 0.25%포인트 인하했다. 올해 세번째이자 3연속 금리인하다. 이번 금리인하로 당분간 유동성에 대한 우려를 덜면서 뉴욕증시 주요지수는 일제히 강세를 나타냈다.\n\n다만 이날은 올해 마지막 선물·옵션 동시만기일('네 마녀의 날')이자 코스피200 주요 지수 정기변경(리밸런싱) 기준일 영향에 변동성을 크게 높였다.\n\n선물·옵션 만기일은 매년 3·6·9·12월 둘째주 목요일로, 주가지수와 개별주식의 선물·옵션이 동시에 만기를 맞는다. 이 시기에는 외국인과 기관 등 수급 주체들이 포지션 청산이나 투자금 이월(롤오버)에 나서면서 단기적으로 변동성 커지는 경향이 있다.\n\n이날 유가증권시장에서 기관 투자자는 7900억원 순매도했다. 프로그램으로도 차익거래가 2245억원, 비차익거래가 2467억원 매도우위였다. 외국인과 개인은 각각 3492억원과 4215억원 매수우위였다.\n\n코스피 시가총액 상위기업들은 등락이 엇갈렸다. 삼성전자(-0.65%), 현대차(-2.31%), HD현대중공업(-2.1%) 등이 하락한 반면 LG에너지솔루션(1.02%), 삼성바이오로직스(0.24%), 두산에너빌리티(0.65%) 등이 올랐다.\n\nSK하이닉스와 SK스퀘어는 한국거래소의 투자경고종목 지정에 각각 3.75%와 5.09% 하락했다. 투자경고종목은 매수시 위탁증거금을 100% 납부해야 하며, 신용융자 매수가 불가능하다. 투자경고 종목 지정 후 추가로 주가가 급등하는 경우 거래가 정지될 수 있다.\n\n동양고속은 서울고속버스터미널 개발 기대감에 6거래일 연속 상한가 행진을 이어갔다. 천일고속도 26%대 추가 급등했다. 삼성화재는 장중 28%대 급등했다.\n\n코스닥지수는 약보합 마감했다. 이날 코스닥지수는 전일 대비 0.04% 내린 934.64에 거래를 마쳤다. 코스닥시장에서도 기관이 399억원 매도우위였다. 개인과 외국인은 각각 892억원과 47억원 순매수를 보였다.\n\n코스닥시장에선 하림지주, 서부T&amp;D 등 테마성 자산주 기업들이 급등했다. 최근 서울고속버스터미널 개발 기대감에 관련주들이 상한가 행진을 벌이자 토지 자산주들이 재부각된 영향으로 풀이된다.\n\n코스닥에 신규상장한 이지스는 거래 첫날 공모가 대비 36.67% 오른 2만500원에 장을 마감했다. 개장 직후 3만3300원까지 뛰며 '따블'(공모가 대비 2배)을 달성했으나 오후 들어 차익실현 매물이 나왔다.\n\n원·달러 환율은 소폭 상승했다. 이날 서울 외환시장에서 원·달러 환율은 전일 대비 2.6원 오른 1473.0원에 주간거래를 마쳤다.\n\n노정동 한경닷컴 기자 dong2@hankyung.com",
+  "published_at": "2025-12-11T16:11:19+09:00",
+  "author": "노정동",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202512/ZA.42651084.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202512/ZA.42651084.1.jpg",
+  "content_url": "https://www.hankyung.com/article/2025121181246",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "코스피": {
+        "original_mention": "코스피",
+        "mapped_name": "코스피",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "미국 기준금리 인하에도 불구하고 하락 마감",
+        "stock_code": null
+      },
+      "삼성전자": {
+        "original_mention": "삼성전자",
+        "mapped_name": "삼성전자",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "주가 하락",
+        "stock_code": "005930"
+      },
+      "현대차": {
+        "original_mention": "현대차",
+        "mapped_name": "현대차",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "주가 하락",
+        "stock_code": "005380"
+      },
+      "HD현대중공업": {
+        "original_mention": "HD현대중공업",
+        "mapped_name": "HD현대중공업",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "주가 하락",
+        "stock_code": "329180"
+      },
+      "LG에너지솔루션": {
+        "original_mention": "LG에너지솔루션",
+        "mapped_name": "LG에너지솔루션",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "주가 상승",
+        "stock_code": "373220"
+      },
+      "삼성바이오로직스": {
+        "original_mention": "삼성바이오로직스",
+        "mapped_name": "삼성바이오로직스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "주가 상승",
+        "stock_code": "207940"
+      },
+      "두산에너빌리티": {
+        "original_mention": "두산에너빌리티",
+        "mapped_name": "두산에너빌리티",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "주가 상승",
+        "stock_code": "034020"
+      },
+      "SK하이닉스": {
+        "original_mention": "SK하이닉스",
+        "mapped_name": "SK하이닉스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "투자경고종목 지정으로 주가 하락",
+        "stock_code": "000660"
+      },
+      "SK스퀘어": {
+        "original_mention": "SK스퀘어",
+        "mapped_name": "SK스퀘어",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "투자경고종목 지정으로 주가 하락",
+        "stock_code": "402340"
+      },
+      "동양고속": {
+        "original_mention": "동양고속",
+        "mapped_name": "동양고속",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "서울고속버스터미널 개발 기대감으로 주가 상승",
+        "stock_code": "084670"
+      },
+      "천일고속": {
+        "original_mention": "천일고속",
+        "mapped_name": "천일고속",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "서울고속버스터미널 개발 기대감으로 주가 상승",
+        "stock_code": "000650"
+      },
+      "삼성화재": {
+        "original_mention": "삼성화재",
+        "mapped_name": "삼성화재해상보험",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "장중 급등",
+        "stock_code": "000810"
+      },
+      "하림지주": {
+        "original_mention": "하림지주",
+        "mapped_name": "하림지주",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "테마성 자산주로 급등",
+        "stock_code": "003380"
+      },
+      "서부T&D": {
+        "original_mention": "서부T&D",
+        "mapped_name": "서부T&D",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "테마성 자산주로 급등",
+        "stock_code": "006730"
+      },
+      "이지스": {
+        "original_mention": "이지스",
+        "mapped_name": "이지스레지던스리츠",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "신규상장 첫날 공모가 대비 상승",
+        "stock_code": "365550"
+      }
+    },
+    "relations": []
+  }
+}

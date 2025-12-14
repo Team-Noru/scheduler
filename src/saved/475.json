@@ -1,0 +1,118 @@
+{
+  "title": "\"기아·SK하이닉스 1등\"…억대 연봉에 직장인들 평점 '싹쓸이'",
+  "description": "기아·SK하이닉스 1등…억대 연봉에 직장인들 평점 싹쓸이, 잡플래닛, 1~3분기 기업 평점 집계 평점 상위 10곳, 대기업·제조업 강세 기아·현대차·SK하이닉스 등 만족도↑",
+  "content": "[IMG]\n\n                            \n                        \n                        사진은 기사와 관련 없음. 사진=게티이미지뱅크\n                    \n                직장인들 사이에서 높은 평점을 받은 기업 상위 10곳 모두 대기업인 것으로 나타났다. 특히 제조·화학 산업군에 속한 기업들이 강세를 보였다.\n\n브레인커머스가 운영하는 커리어 플랫폼 잡플래닛이 올 1~3분기 평점 우수기업 톱(Top)10을 발표했다. 이 기간 총 리뷰 수가 50개 이상인 기업을 대상으로 △만족도 △급여·복지 △업무와 삶의 균형(워라밸) △사내 문화 등 4가지 항목 점수를 반영했다. 모든 평점은 5점 만점을 기준으로 집계했다. \n\n상위 10개 기업은 △기아(4.56) △현대자동차(4.53) △SK하이닉스(4.42) △네이버(4.41) △현대모비스(4.24) △삼성SDS(4.21) △SK텔레콤(4.2) △국민은행(4.18) △농협경제지주(3.98) △한국필립모리스(3.84) 순으로 나타났다. \n\n이들 기업은 전반적으로 높은 연봉 경쟁력과 복지제도, 수평적 사내 문화 등에서 고르게 긍정적인 평가를 받았다. 톱10 기업 모두 대기업으로 외국계의 경우 한국필립모리스가 유일했다. \n\n제조·화학 산업군에선 기아, 현대자동차, SK하이닉스, 현대모비스 등 4곳이 포함돼 제조업 전반의 근무 만족도가 여전히 높은 수준을 나타냈다. 이 가운데 기아·SK하이닉스는 급여·복지 항목에서 각각 4.66점, 4.63점을 기록해 압도적인 보상 경쟁력을 보였다. \n\n각사 사업보고서를 보면 기아 직원 1인당 평균 급여는 지난해 기준 1억3600만원, SK하이닉스는 1억1700만원으로 확인됐다. \n\nIT·웹·통신 업종에선 네이버가 급여·복지와 사내 문화 항목에서 강점을 드러냈다. SK텔레콤은 급여·복지, 워라밸 항목에서 높은 평가를 받았다. \n\n은행·금융업의 경우 국민은행이 급여·복지, 농협경제지주가 워라밸 항목에서 각각 평점이 높았다. 한국필립모리스는 급여·복지와 워라밸 항목에서 높은 점수를 기록했다. \n\n잡플래닛 관계자는 \"이번 톱10은 단순한 평점 집계를 넘어 실제 직장인들의 경험 데이터를 기반으로 한 순위\"라며 \"앞으로도 믿을 수 있는 데이터를 바탕으로 구직자에게 실질적인 인사이트를 제공할 수 있도록 노력하겠다\"고 말했다. \n\n김대영 한경닷컴 기자 kdy@hankyung.com",
+  "published_at": "2025-12-02T14:09:51+09:00",
+  "author": "김대영",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202512/01.42554495.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202512/01.42554495.1.jpg",
+  "content_url": "https://www.hankyung.com/article/202512028482g",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "기아": {
+        "original_mention": "기아",
+        "mapped_name": "기아",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "높은 연봉 경쟁력과 복지제도에서 긍정적인 평가",
+        "stock_code": "000270"
+      },
+      "현대자동차": {
+        "original_mention": "현대자동차",
+        "mapped_name": "현대자동차",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "높은 연봉 경쟁력과 복지제도에서 긍정적인 평가",
+        "stock_code": "005380"
+      },
+      "SK하이닉스": {
+        "original_mention": "SK하이닉스",
+        "mapped_name": "SK하이닉스",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "높은 연봉 경쟁력과 복지제도에서 긍정적인 평가",
+        "stock_code": "000660"
+      },
+      "네이버": {
+        "original_mention": "네이버",
+        "mapped_name": "NAVER",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "급여·복지와 사내 문화 항목에서 강점",
+        "stock_code": "035420"
+      },
+      "현대모비스": {
+        "original_mention": "현대모비스",
+        "mapped_name": "현대모비스",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "높은 연봉 경쟁력과 복지제도에서 긍정적인 평가",
+        "stock_code": "012330"
+      },
+      "삼성SDS": {
+        "original_mention": "삼성SDS",
+        "mapped_name": "삼성에스디에스",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "높은 연봉 경쟁력과 복지제도에서 긍정적인 평가",
+        "stock_code": "018260"
+      },
+      "SK텔레콤": {
+        "original_mention": "SK텔레콤",
+        "mapped_name": "SK텔레콤",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "급여·복지, 워라밸 항목에서 높은 평가",
+        "stock_code": "017670"
+      },
+      "국민은행": {
+        "original_mention": "국민은행",
+        "mapped_name": "KB금융",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "급여·복지 항목에서 높은 평가",
+        "stock_code": "105560"
+      },
+      "농협경제지주": {
+        "original_mention": "농협경제지주",
+        "mapped_name": "농협금융",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "워라밸 항목에서 높은 평가",
+        "stock_code": null
+      },
+      "한국필립모리스": {
+        "original_mention": "한국필립모리스",
+        "mapped_name": "한국필립모리스",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "급여·복지와 워라밸 항목에서 높은 점수",
+        "stock_code": null
+      }
+    },
+    "relations": []
+  }
+}

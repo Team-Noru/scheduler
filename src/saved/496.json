@@ -1,0 +1,151 @@
+{
+  "title": "외인·기관, 엇갈린 사랑…NAVER는 외면 [마켓플러스]",
+  "description": "외인·기관, 엇갈린 사랑…NAVER는 외면, 기관, 저가매수나서…2차전지 대장주 매수 NAVER 매도…실적 성장 가능성 희미해 반도체 시대…부품·장비주도 급등 지속 가슴아파두…주총후 파두 보유 vs. 매도",
+  "content": "영상 모듈 닫기\n                            \n                        \n                    \n                    \n                        \n                        $(function(){\n                            $('#floatingVideo button').on('click', function(){\n                                $('#floatingVideo').removeClass('active').addClass('stop');\n\n                            });\n    \n                            \n                            var videoHeight = $('#floatingVideo').height();\n                            $(window).on('scroll', function(){\n                                if($('#floatingVideo').hasClass('stop')){\n                                    return false;\n                                }\n                                var videoTop = $('#floatingVideo').offset().top;\n                                var scrTop = $(window).scrollTop();\n                                if( scrTop \n                    \n●외인이 팔면…기관이 줍줍\n\n최근 국내 증시의 상승은 외국인이 주도했는데요, 주도주 위주로 포트폴리오를 구성하고 있는 외국인과 달리 기관은 소외주에 집중하고 있는 모습을 보이고 있습니다.\n\n한 달간 기관은 포스코홀딩스, 삼성SDI 등 최근 부진한 주가 흐름을 이어가는 2차전지 대장주 위주로 매수하고 있는데요, 작년 급등했던 2차전지 기업들이 조정에 들어가자 저가 매수에 나선 것으로 풀이됩니다. 같은 기간 외국인 순매도 상위 종목에 해당 종목들이 들어가 있는 것과는 대조적입니다.\n\n\n\n반면 기관과 외국인 마음이 통한 종목도 있는데요, 둘 다 네이버에 대해 매도 우위를 보이는 겁니다. 외국인과 기관은 한 달간 1조 원 넘게 매도했습니다.\n\n\n\n일부 증권사에서는 네이버에 대해 보수적인 전망을 전하며 목표주가를 하향 조정하고 있습니다. 증권업계에선 \"올해 기대했던 본업 마진 개선에 따른 실적 성장 가능성이 옅어졌다\"며 \"전사 매출액 성장을 타개할 새로운 사업 전략이 필요하다\"라고 하향 이유를 설명했습니다.\n\n\n\n●진격의 반도체…\"535% 주가 껑충\"\n\n요즘 우리 시장은 반도체주를 중심으로 시장이 움직이고 있다고 해도 과언이 아닙니다.\n\n최근 8만전자에 도달한 삼성전자가 오늘도 8만 800원을 기록하며 52주 신고가를 경신했는데요. 종가로 8만 전자를 넘긴 건 2년 3개월 만에 처음입니다. 오늘 개인이 차익실현에 나섰지만, 외국인과 기관이 5천억 원 넘게 매수하며 주가를 끌어 올린 것으로 풀이됩니다.\n\n반면 이날 SK하이닉스는 외국인과 기관이 매도하면서 18만 원을 밑돌았습니다.\n\n반도체 대장주의 질주에 가온칩스, 제주반도체 등 부품·장비주도 오름세를 보이고 있는데요, 가온칩스와 제주반도체 모두 AI 반도체 시장의 수혜를 볼 것이란 긍정적인 전망이 나오며 주가 상승세가 이뤄진 겁니다.\n\n\n\n한미반도체는 최근 SK하이닉스에 215억 원 장비 수주에 성공한데 이어 미국의 주요 D램 제조업체인 마이크론을 신규 고객사로 확보할 것이라는 소식이 전해지며 급등세를 이어갔는데요, 한미반도체의 주가는 일년 사이 2만1,100원에서 13만 4천 원으로 535% 가량 급등했습니다.\n\n●\"가슴아파두 보유\"…공모가 比 -50% 하락\n\n지난해 상장한 뒤 실적 쇼크로 소액 투자자들을 울린 파두의 주주총회가 오늘 열렸습니다.\n\n\n\n이지효 파두 대표가 직접 나와 주주들에게 사과의 입장을 전하며 \"거시적 사이클을 충분히 읽지 못하고 단기적으로 변동성에 대한 대비가 부족했다\"며 하반기부터는 본격적인 실적 회복세가 이뤄질 것\"이라고 밝혔는데요, 다만 올해 1,2분기에 대해선 아직 자신 있게 말씀드리기 어려운 부분\"이라고 언급했습니다.\n\n불확실한 실적 전망에 파두의 주가는 주주총회 이후 하락세를 지속하며 2% 넘게 하락한 채 장을 마쳤습니다.\n\n\n\n\n\n지난 8월 기술특례상장으로 코스닥 시장에서 입성한 파두는 2분과 3분기 매출이 각각 5,900만 원, 3억 2천만 원이라고 공시했는데요, 이는 파두 IPO(기업공개) 당시 증권신고서에 낸 1,203억과는 크게 차이나는 매출을 기록했습니다.\n\n\n\n매출 쇼크에 주가는 곤두박질쳤는데요, 파두의 소액주주 14명은 최근 파두와 주관사인 NH투자증권과 한국투자증권을 상대로 증권관련집단소송법에 따른 집단소송 소장과 소송허가신청서를 제출했습니다.\n\n\n\n지금까지 마켓플러스였습니다.\n\n\n최민정기자 choimj@wowtv.co.kr\n                    \n                        \n                            \n[IMG]",
+  "published_at": "2024-03-28T17:44:00+09:00",
+  "author": "최민정 기자 choimj@wowtv.co.kr",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202403/w1711614018453.JPG"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202403/AC.36263400.1.jpg",
+  "content_url": "https://www.hankyung.com/article/2024032840225",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "포스코홀딩스": {
+        "original_mention": "포스코홀딩스",
+        "mapped_name": "POSCO홀딩스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관이 매수하고 있는 종목으로 언급됨",
+        "stock_code": "005490"
+      },
+      "삼성SDI": {
+        "original_mention": "삼성SDI",
+        "mapped_name": "삼성SDI",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관이 매수하고 있는 종목으로 언급됨",
+        "stock_code": "006400"
+      },
+      "네이버": {
+        "original_mention": "네이버",
+        "mapped_name": "NAVER",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "외국인과 기관이 매도 우위를 보임",
+        "stock_code": "035420"
+      },
+      "삼성전자": {
+        "original_mention": "삼성전자",
+        "mapped_name": "삼성전자",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "52주 신고가 경신",
+        "stock_code": "005930"
+      },
+      "SK하이닉스": {
+        "original_mention": "SK하이닉스",
+        "mapped_name": "SK하이닉스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "외국인과 기관이 매도",
+        "stock_code": "000660"
+      },
+      "가온칩스": {
+        "original_mention": "가온칩스",
+        "mapped_name": "가온칩스",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "AI 반도체 시장의 수혜 전망",
+        "stock_code": "399720"
+      },
+      "제주반도체": {
+        "original_mention": "제주반도체",
+        "mapped_name": "제주반도체",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "AI 반도체 시장의 수혜 전망",
+        "stock_code": "080220"
+      },
+      "한미반도체": {
+        "original_mention": "한미반도체",
+        "mapped_name": "한미반도체",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "마이크론을 신규 고객사로 확보",
+        "stock_code": "042700"
+      },
+      "마이크론": {
+        "original_mention": "마이크론",
+        "mapped_name": "마이크론",
+        "listing_status": "상장",
+        "exchange": "NASDAQ",
+        "country": "USA",
+        "sentiment": "중립",
+        "sentiment_reason": "한미반도체의 신규 고객사로 언급됨",
+        "stock_code": "MU"
+      },
+      "파두": {
+        "original_mention": "파두",
+        "mapped_name": "파두",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "실적 쇼크로 주가 하락",
+        "stock_code": "377400"
+      },
+      "NH투자증권": {
+        "original_mention": "NH투자증권",
+        "mapped_name": "농협금융",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "파두와 관련된 소송에 언급됨",
+        "stock_code": "005940"
+      },
+      "한국투자증권": {
+        "original_mention": "한국투자증권",
+        "mapped_name": "한국투자증권",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "파두와 관련된 소송에 언급됨",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "한미반도체",
+        "target": "마이크론",
+        "relation_type": "고객사",
+        "relation_reason": "한미반도체가 마이크론을 신규 고객사로 확보",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "042700",
+        "target_is_listed": true,
+        "target_country": "USA",
+        "target_ticker": "MU"
+      }
+    ]
+  }
+}

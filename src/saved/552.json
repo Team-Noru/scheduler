@@ -1,0 +1,28 @@
+{
+  "title": "한국전력공사, 3분기 영업익 3조3960억…전년비 70%↑ [주목 e공시]",
+  "description": "한국전력공사, 3분기 영업익 3조3960억…전년비 70%↑, 고정삼 기자, 증권",
+  "content": "[IMG]\n\n                            \n                        \n                        사진=한경 DB\n                    \n                한국전력공사는 올해 3분기 연결기준 영업이익이 3조3960억원으로 전년 동기 대비 70.1% 늘었다고 13일 공시했다. 이 기간 매출과 당기순이익은 각각 6.7%와 125.6% 증가한 26조1033억원, 1조8796억원으로 집계됐다.\n\n고정삼 한경닷컴 기자 jsk@hankyung.com",
+  "published_at": "2024-11-13T13:57:59+09:00",
+  "author": "고정삼",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202411/01.38611408.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202411/01.38611408.1.jpg",
+  "content_url": "https://www.hankyung.com/article/2024111388676",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "한국전력공사": {
+        "original_mention": "한국전력공사",
+        "mapped_name": "한국전력공사",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "3분기 영업이익이 전년 동기 대비 70.1% 증가",
+        "stock_code": "015760"
+      }
+    },
+    "relations": []
+  }
+}

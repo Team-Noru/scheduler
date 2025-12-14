@@ -1,0 +1,59 @@
+{
+  "title": "전기차 충전만 해도 돈 버는 시대 열린다",
+  "description": "전기차 충전만 해도 돈 버는 시대 열린다, 움직이는 ESS 상용화 시동 주차된 상태서 배터리 전력 판매 정부, 한전·현대차와 협의체 출범",
+  "content": "전기차를 충전기에 꽂아두기만 해도 차주가 돈을 벌 수 있는 시대가 열린다. 배터리에 저장된 전력을 전력망으로 역전송해 판매하는 ‘양방향 충·방전’(V2G·Vehicle to Grid) 기술이 상용화 단계에 들어가면서다. 정부는 전기차를 이동 수단을 넘어 ‘움직이는 에너지저장장치(ESS)’로 활용하겠다는 방침이다.\n\n기후에너지환경부는 5일 서울 인현동 호텔피제이에서 현대자동차, 한국전력, 충전기 제조사 등 전문가 30여 명이 참석한 가운데 ‘V2G 상용화 전략 추진 민관 협의체’를 출범시키고 관련 기술 표준화 및 제도 마련에 착수했다. V2G는 주차된 전기차 배터리를 활용하는 개념이다. 전기차 소유주는 전기료가 싼 심야에 충전하고, 전력 수요가 늘어나 요금이 비싼 낮에 되팔아 차익을 얻을 수 있다.\n\n정부가 V2G에 속도를 내는 것은 전력망 안정화 때문이다. 전기차 한 대의 배터리 용량(약 70~100㎾h)은 일반 가정집이 며칠간 쓸 수 있는 전력량과 맞먹는다. 전기차 수십만 대를 전력망에 연결하면 거대한 가상발전소가 된다. 정부 관계자는 “전기차 80만 대에서 2~3㎾씩만 전력을 가져와도 대형 화력발전소 1기가 부담하는 ‘전력 피크’를 감당할 수 있다”며 “수조원의 발전소 건설 비용을 아끼는 셈”이라고 설명했다.\n\n전기차 기업들도 움직이고 있다. 테슬라는 사이버트럭에 이어 주력 차종인 모델3·Y에도 V2G 기능을 적용해 전기차 소유주가 전력을 사고파는 사업 모델을 준비 중이다. 현대차그룹은 이달 말 제주도에서 V2G 시범 서비스를 시작하기로 했다. 정부는 협의체를 통해 상용화를 앞당긴다는 계획이다. 작년부터 보급해온 ‘스마트 제어 완속 충전기’ 인프라를 활용해 양방향 충전 환경을 조성하기로 했다. 관련 제도도 손본다. 개인이 전기를 판매하려면 전기사업법을 개정하고, 별도 요금·정산 체계도 구축해야 한다.\n\n이호현 기후부 차관은 “양방향 충·방전은 재생에너지 변동성을 보완하는 핵심 수단”이라며 “전기차 차주는 요금을 절감하고, 수익도 얻을 수 있을 것”이라고 말했다.\n\n김대훈 기자 daepun@hankyung.com",
+  "published_at": "2025-12-05T17:34:34+09:00",
+  "author": "김대훈",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/2025120568271",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "현대자동차": {
+        "original_mention": "현대자동차",
+        "mapped_name": "현대자동차",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "V2G 시범 서비스 시작으로 전기차 사업 확장",
+        "stock_code": "005380"
+      },
+      "한국전력": {
+        "original_mention": "한국전력",
+        "mapped_name": "한국전력",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "V2G 기술 표준화 및 제도 마련 참여",
+        "stock_code": "015760"
+      },
+      "테슬라": {
+        "original_mention": "테슬라",
+        "mapped_name": "테슬라",
+        "listing_status": "상장",
+        "exchange": "NASDAQ",
+        "country": "USA",
+        "sentiment": "긍정",
+        "sentiment_reason": "V2G 기능을 주력 차종에 적용하여 사업 모델 준비",
+        "stock_code": "TSLA"
+      }
+    },
+    "relations": [
+      {
+        "source": "현대자동차",
+        "target": "한국전력",
+        "relation_type": "파트너",
+        "relation_reason": "V2G 상용화 전략 추진 민관 협의체 참여",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "005380",
+        "target_is_listed": true,
+        "target_country": "Korea",
+        "target_ticker": "015760"
+      }
+    ]
+  }
+}

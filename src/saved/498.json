@@ -1,0 +1,71 @@
+{
+  "title": "네이버웹툰 이르면 6월 美상장…\"주가엔 영향 없다\"",
+  "description": "네이버웹툰 이르면 6월 美상장…주가엔 영향 없다, 웹툰 IPO 네이버 주가 단기 상승 요인으로 작용하지는 않을 전망 한국투자증권, NAVER 투자 의견 27만 원 유지",
+  "content": "[IMG]\n\n                            \n                        \n                        \n                    \n                네이버의 대표 자회사인 네이버웹툰이 6월 중으로 미국에 상장을 추진하는 가운데 한국투자증권은 회사의 목표가를 유지했다. 20일 한국투자증권은 NAVER에 대한 목표가를 27만 원으로 유지했다. 투자 의견도 '매수'를 유지했다.\n\n상장 법인은 네이버의 웹툰 사업을 총괄하는 웹툰 엔터테인먼트(WEBTOON Entertainment)로 네이버가 71.2%의 지분을 보유 중이다. 블룸버그는 소식통을 인용해 웹툰 엔터테인먼트의 기업 가치는 30억∼40억 달러(약 4조 65억∼5조 3,420억 원)로 추산되며, 이번 상장을 통해 최대 5억 달러를 조달하게 될 것으로 예상했다.\n\n정호윤 한국투자증권 연구원은 \"현재 네이버 웹툰의 예상 시가총액으로 산정되는 40억 달러가 적정한 수준이라고 판단한다\"고 설명했다.\n\n네이버 웹툰의 2024년 매출 추정치는 약 1조 6천억 원~1조 7천억 원 수준이기 때문에 이를 기반으로 추정하는 네이버 웹툰의 적정가치는 약 4조 8천억 원~5조 1천억 원이라는 게 정 연구원의 설명이다. 네이버웹툰의 피어그룹이라고 할 수 있는 유일한 상장사, 중국의 웨원그룹의 2023년 기준 PSR(주가매출비율)은 3.2배, 2024년 기준 2.8배 수준이다.\n\n다만, 그는 \"네이버의 2023년 웹툰 거래액 성장률이 12.2%로 낮아진 상황이라는 점은 상장 기업가치 및 이후 주가 흐름에 있어서 부담 요인으로 작용할 수 있다\"고 덧붙였다.\n\n이어 정 연구원은 \"안타깝게도 웹툰 IPO가 네이버 주가의 단기 상승 요인으로 작용하지는 않을 전망\"이라며 \"상장 이후 네이버 지분율 희석을 감안하면 이론적으로는 오히려 주가에 부정적인 요인으로 작용할 가능성 또한 존재한다\"고 설명했다.\n\n정 연구원은 \"전략적으로 중요한 미국 시장은 아직 침투율이 낮아 공격적인 마케팅이 필요했다\"며 \"IPO를 통해 확보한 자금으로 마케팅을 진행하면 네이버 입장에서는 장기간 네이버 웹툰에 자금 수혈을 해주었던 만큼 이에 대한 부담이 줄어들 수 있어 긍정적일 것\"이라고 덧붙였다.\n\n웹툰의 IPO 등 자회사와 관련된 이슈라기 보다는 전사적인 비용 통제 및 주요 사업부의 수익성 개선에 따른 전사적 이익 개선이 현재 네이버의 투자 포인트라는 게 한국투자증권 측의 설명이다.\n\n이날 NAVER는 유가증권 시장에서 오전 9시 1분 기준 전 거래일 대비 0.49% 상승한 20만 4,500원에 거래되고 있다.\n\n\n김동하기자 hdk@wowtv.co.kr",
+  "published_at": "2024-02-20T09:09:00+09:00",
+  "author": "김동하 기자 hdk@wowtv.co.kr",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202402/B20230717083751997.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202402/B20230717083751997.jpg",
+  "content_url": "https://www.hankyung.com/article/2024022052455",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "NAVER": {
+        "original_mention": "NAVER",
+        "mapped_name": "NAVER",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "네이버웹툰의 상장이 네이버 주가에 단기적으로 긍정적 영향을 미치지 않을 것으로 예상됨.",
+        "stock_code": "035420"
+      },
+      "네이버웹툰": {
+        "original_mention": "네이버웹툰",
+        "mapped_name": "네이버웹툰",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "IPO를 통해 확보한 자금으로 마케팅을 진행하면 네이버 입장에서는 장기간 네이버 웹툰에 자금 수혈을 해주었던 만큼 이에 대한 부담이 줄어들 수 있어 긍정적일 것.",
+        "stock_code": null
+      },
+      "한국투자증권": {
+        "original_mention": "한국투자증권",
+        "mapped_name": "한국투자증권",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "네이버에 대한 목표가와 투자 의견을 유지함.",
+        "stock_code": "071050"
+      },
+      "웨원그룹": {
+        "original_mention": "웨원그룹",
+        "mapped_name": "웨원그룹",
+        "listing_status": "상장",
+        "exchange": "Other",
+        "country": "Other",
+        "sentiment": "중립",
+        "sentiment_reason": "네이버웹툰의 피어그룹으로 언급됨.",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "NAVER",
+        "target": "네이버웹툰",
+        "relation_type": "고객사",
+        "relation_reason": "네이버가 네이버웹툰의 지분을 보유 중임.",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "035420",
+        "target_is_listed": false,
+        "target_country": "Korea",
+        "target_ticker": null
+      }
+    ]
+  }
+}

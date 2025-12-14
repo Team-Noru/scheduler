@@ -1,0 +1,26 @@
+{
+  "title": "현대모비스, 인도 IT허브에…SW 전문 연구센터 문열어",
+  "description": "현대모비스, 인도 IT허브에…SW 전문 연구센터 문열어, 김보형 기자, 경제",
+  "content": "현대모비스는 ‘인도의 실리콘밸리’로 불리는 남서부 벵갈루루에 소프트웨어(SW) 전문 연구분소를 신설했다고 8일 밝혔다.\n\n인도 자동차 시장은 국민소득 증가로 소형차에서 중대형 차종 중심으로 옮겨가고 있다. 차량 고급화로 첨단운전자보조시스템(ADAS) 등 고부가가치 전자장치 부품 장착이 증가하는 추세인데, 현대모비스는 벵갈루루 분소를 통해 인포테인먼트용 SW 개발에 나선다는 계획이다. 현대모비스는 올해 초 인도 중남부 하이데라바드에 통합 연구센터를 신설했다. 하이데라바드 통합 거점은 현지 연구개발(R&amp;D) 헤드쿼터로 운영된다.\n\n김보형 기자 kph21c@hankyung.com",
+  "published_at": "2025-12-08T17:20:00+09:00",
+  "author": "김보형",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/2025120809001",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "현대모비스": {
+        "original_mention": "현대모비스",
+        "mapped_name": "현대모비스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "인도에 새로운 연구센터를 설립하여 글로벌 R&D 역량을 강화하고 있음",
+        "stock_code": "012330"
+      }
+    },
+    "relations": []
+  }
+}

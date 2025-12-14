@@ -1,0 +1,73 @@
+{
+  "title": "삼성물산, 폴란드 에너지 기업과 손잡고 유럽 SMR시장 공략 가속화",
+  "description": "삼성물산, 폴란드 에너지 기업과 손잡고 유럽 SMR시장 공략 가속화, 폴란드 SMR 개발사 신토스그린에너지와 SMR 개발 협력 업무협약 체결 폴란드 최초 SMR 포함 총 24기 건설 추진…유럽 6개국 확대 계획 글로벌 SMR 플레이어와의 연이은 협력…유럽 SMR 시장 확장 박차",
+  "content": "[IMG]\n\n                            \n                        \n                        \n                    \n                삼성물산 건설부문(이하 삼성물산)이 폴란드 민간 SMR 개발사와 협력을 통해 중·동부 유럽 시장 소형모듈원전(SMR, Small Modular Reactors) 사업 확장에 나선다.\n\n삼성물산은 폴란드 SMR 사업 및 중·동부 유럽 청정에너지 프로젝트를 주도하는 신토스그린에너지(Synthos Green Energy)와 유럽 SMR 개발 협력을 위한 업무협약를 체결했다고 14일 밝혔다. 이날 행사에는 신토스그린에너지 회장 미하우 소워보프 회장, CEO 라파우 카스프루프 사장, 삼성물산 건설부문 오세철 대표이사 사장 등이 참석했다.\n\n신토스그린에너지는 SMR 주요 기술 중 하나로 평가받고 있는 'BWRX-300'을 활용하여 2030년대 초반까지 폴란드 최초 SMR 발전소를 비롯한 최대 24기의 SMR 건설을 목표로 하고 있다. 향후 체코, 헝가리, 리투아니아, 불가리아, 루마니아 등 중·동부 유럽까지 SMR 사업을 확대할 계획이다.\n\n양사는 이번 업무협약을 통해 폴란드 SMR 사업 개발에 필요한 타당성 조사, 부지조사, 환경영향평가 등에서 협력을 진행할 예정이다. 이를 바탕으로 SGE가 추진하고 있는 중·동부 유럽 시장까지 협력을 지속해 나갈 전망이다.\n\n'BWRX-300'은 비등형 경수로(BWR, Boiling Water Reactor)를 개량한 300MW 규모의 SMR 기술로 미국 GE와 일본 히타치가 합작 설립한 GE Vernova Hitachi Nuclear Energy가 개발했다. 서구권 최초 SMR인 캐나다 온타리오 사업에 건설이 진행중이며, 스웨덴 국영 전력회사인 바텐폴이 스웨덴 링할스 원전 사업에 'BWRX-300'을 최종 후보로 선정한 바 있다.\n\n삼성물산 오세철 대표이사 사장은 “신토스그린에너지와의 긴밀한 협력은 폴란드와 중·동부 유럽 진출의 기반을 확보하는 이정표가 될 것”이라고 밝혔다.\n\n신토스그린에너지 라파우 카스프루프 사장은 “삼성물산의 글로벌 원전 수행 역량과 신토스그린에너지의 SMR 사업경쟁력이 더해져 폴란드 SMR 사업의 가능성을 높이고 유럽 내 안전하고 지속가능한 에너지 솔루션을 제공할 수 있기를 희망한다”고 밝혔다.\n\n한편, 삼성물산은 지난 10월 GVH(GE Vernova Hitachi Nuclear Energy)와 유럽·동남아·중동 지역 SMR 사업 확장을 위한 전략적 파트너십을 체결하고 스웨덴 SMR 공급망 행사를 진행한 바 있으며, 이번 협력을 통해 스웨덴뿐만 아니라 중·동부 유럽까지 유럽내 SMR 핵심 플레이어로서의 입지를 공고히 하겠다는 방침이다.",
+  "published_at": "2025-12-14T08:30:51+09:00",
+  "author": "WISEPRESS_AI",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202512/624eba23e1708ed3b3858900d33cfc98.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202512/624eba23e1708ed3b3858900d33cfc98.jpg",
+  "content_url": "https://www.hankyung.com/article/202512141994P",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "삼성물산": {
+        "original_mention": "삼성물산",
+        "mapped_name": "삼성물산",
+        "listing_status": "상장",
+        "exchange": "KRX",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "유럽 SMR 시장 공략을 위한 협력 강화",
+        "stock_code": "028260"
+      },
+      "신토스그린에너지": {
+        "original_mention": "신토스그린에너지",
+        "mapped_name": "신토스그린에너지",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Other",
+        "sentiment": "긍정",
+        "sentiment_reason": "삼성물산과의 협력을 통해 폴란드 및 중동부 유럽 SMR 사업 확장",
+        "stock_code": null
+      },
+      "GE Vernova Hitachi Nuclear Energy": {
+        "original_mention": "GE Vernova Hitachi Nuclear Energy",
+        "mapped_name": "GE Vernova Hitachi Nuclear Energy",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "USA",
+        "sentiment": "중립",
+        "sentiment_reason": "BWRX-300 기술 개발사로 언급",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "삼성물산",
+        "target": "신토스그린에너지",
+        "relation_type": "파트너",
+        "relation_reason": "유럽 SMR 개발 협력을 위한 업무협약 체결",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "028260",
+        "target_is_listed": false,
+        "target_country": "Other",
+        "target_ticker": null
+      },
+      {
+        "source": "GE Vernova Hitachi Nuclear Energy",
+        "target": "신토스그린에너지",
+        "relation_type": "공급사",
+        "relation_reason": "BWRX-300 기술 제공",
+        "source_is_listed": false,
+        "source_country": "USA",
+        "source_ticker": null,
+        "target_is_listed": false,
+        "target_country": "Other",
+        "target_ticker": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "'황금노선' 자카르타 취항 눈독 들이는 LCC",
+  "description": "황금노선 자카르타 취항 눈독 들이는 LCC, 대한항공·아시아나 합병 후속 남은 국제선 6개 중 가장 인기 비즈니스·여행 수요·환승객까지 중·장거리 운항 역량이 관건 티웨이·에어프레미아 유리",
+  "content": "대한항공·아시아나항공 기업 결합에 따른 노선 배분을 앞두고 저비용항공사(LCC)가 자카르타(인도네시아) 노선에 눈독을 들이고 있다. 한국 기업이 다수 진출해 수요가 많은 데다 최근엔 환승객도 많아 ‘황금노선’으로 인식돼서다.\n\n11일 항공업계에 따르면 대한항공과 아시아나항공 합병으로 회수된 자카르타 노선에 제주항공, 티웨이항공, 이스타항공, 에어프레미아 등 4개 LCC가 공정거래위원회에 신규 취항을 신청한 것으로 알려졌다. 공정위는 이들이 이번주까지 제출한 자료를 토대로 이달 말께 자카르타 노선의 운항사를 결정할 예정이다.\n\n공정위는 지난해 말 대한항공과 아시아나항공의 기업 결합을 승인하면서 독과점이 발생할 수 있는 34개 노선의 운수권과 슬롯을 10년 안에 다른 항공사에 이전하도록 했고, 6개 국제선이 시장에 나왔다. 이 중 인천~호놀룰루, 인천~런던 노선은 미국과 영국 경쟁당국이 각각 에어프레미아, 버진애틀랜틱을 대체 항공사로 지정했고 인천~시애틀, 인천~괌, 부산~괌, 인천~자카르타 등이 남아 있다.\n\n남은 노선 중에서 자카르타 노선이 특히 인기다. 고환율로 인기가 낮아진 괌과 시애틀 노선과 달리 자카르타는 비즈니스와 여행 수요가 모두 탄탄하고 환승객까지 잡을 수 있어서다. 항공정보포털에 따르면 올해 1~11월 동남아시아 주요 노선 중 인도네시아 승객은 106만8864명으로 필리핀 태국 싱가포르 말레이시아에 이어 5위다.\n\n자카르타 노선을 잡기 위해선 중대형기 운영 경험이 특히 중요하다. 대한항공과 아시아나항공의 자카르타 노선 평균 탑승객이 230~240명 수준으로 알려졌기 때문이다. A330-200·300 각 5대, B777-300ER 2대 등 총 12대의 중·대형기를 보유한 티웨이항공과 B787-9 8대로 미주 노선을 중심으로 장거리 네트워크를 확장해 온 에어프레미아가 해당한다. 제주항공과 이스타항공은 B737-800(최대 좌석 189석) 등 200석 미만의 소형기를 주로 사용한다.\n\n이와 함께 자카르타에서 한국을 거쳐 다른 나라로 가는 환승 수요가 1~11월 기준 전체의 8.5%로, 미국과 유럽 등 장거리 노선을 보유한 항공사가 유리하다.\n\n항공업계 관계자는 “자카르타처럼 여객 수요와 환승 수요가 동시에 존재하는 전략 노선은 장거리 운항 역량이 검증된 항공사에 배분될 가능성이 크다”며 “이 노선을 확보한 항공사는 단거리 중심 수익 구조에서 벗어나 네트워크 확장에서 우위를 차지할 것”이라고 말했다.\n\n신정은 기자 newyearis@hankyung.com",
+  "published_at": "2025-12-11T18:07:08+09:00",
+  "author": "신정은",
+  "image_urls": [],
+  "thumbnail_url": "https://img.hankyung.com/photo/202512/AA.42652325.1.jpg",
+  "content_url": "https://www.hankyung.com/article/2025121186591",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "대한항공": {
+        "original_mention": "대한항공",
+        "mapped_name": "대한항공",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기사에서 대한항공의 역할이 중립적으로 언급됨",
+        "stock_code": "003490"
+      },
+      "아시아나항공": {
+        "original_mention": "아시아나항공",
+        "mapped_name": "아시아나항공",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기사에서 아시아나항공의 역할이 중립적으로 언급됨",
+        "stock_code": "020560"
+      },
+      "제주항공": {
+        "original_mention": "제주항공",
+        "mapped_name": "제주항공",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "자카르타 노선 취항 신청으로 긍정적인 기회 언급",
+        "stock_code": "089590"
+      },
+      "티웨이항공": {
+        "original_mention": "티웨이항공",
+        "mapped_name": "티웨이항공",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "자카르타 노선 취항 신청으로 긍정적인 기회 언급",
+        "stock_code": "091810"
+      },
+      "이스타항공": {
+        "original_mention": "이스타항공",
+        "mapped_name": "이스타항공",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "자카르타 노선 취항 신청으로 긍정적인 기회 언급",
+        "stock_code": null
+      },
+      "에어프레미아": {
+        "original_mention": "에어프레미아",
+        "mapped_name": "에어프레미아",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "자카르타 노선 취항 신청으로 긍정적인 기회 언급",
+        "stock_code": null
+      },
+      "버진애틀랜틱": {
+        "original_mention": "버진애틀랜틱",
+        "mapped_name": "버진애틀랜틱",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Other",
+        "sentiment": "중립",
+        "sentiment_reason": "대체 항공사로 지정된 사실 언급",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "대한항공",
+        "target": "아시아나항공",
+        "relation_type": "합병",
+        "relation_reason": "대한항공과 아시아나항공의 합병으로 인한 노선 배분",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "003490",
+        "target_is_listed": true,
+        "target_country": "Korea",
+        "target_ticker": "020560"
+      }
+    ]
+  }
+}

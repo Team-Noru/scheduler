@@ -1,0 +1,76 @@
+{
+  "title": "금융지주 영구채 '큰장' 선다…신한·하나 등 1.8兆 쏟아질 듯",
+  "description": "금융지주 영구채 큰장 선다…신한·하나 등 1.8조원 쏟아질 듯, 하반기 차환물량 속속 도래 자본인정·유동성 확보 포석",
+  "content": "▶마켓인사이트 8월 6일 오후 3시 13분\n\n금융지주들이 하반기 신종자본증권(영구채) 발행 작업에 시동을 걸고 있다. 최대 1조8000억원에 육박하는 금융지주의 신종자본증권이 하반기 채권시장에 쏟아질 전망이다. 조달 환경도 개선된 만큼 신종자본증권을 통해 유동성 확보와 자본 확충을 모두 잡겠다는 구상으로 풀이된다.\n\n6일 금융감독원 전자공시시스템에 따르면 주요 금융지주가 이사회 결의를 통해 확정한 하반기 신종자본증권 조달 규모는 총 1조7900억원으로 집계됐다. 올해 상반기 금융지주 신종자본증권 발행 규모(1조7050억원)를 웃돈다.\n\n신종자본증권은 주식과 채권 성격을 동시에 지닌 하이브리드 채권을 뜻한다. 국제결제은행(BIS) 기준 자기자본비율 산정 때 자본으로 인정받을 수 있어 금융사가 주로 발행한다.\n\n5대 금융지주에서는 신한, 하나, 우리, 농협금융이 하반기 신종자본증권 조달 계획을 확정했다. 신한, 하나, 우리금융은 각각 최대 4000억원 규모의 신종자본증권 발행을 추진한다. 농협금융은 지난달 25일 3400억원 규모 신종자본증권 발행을 의결했다.\n\n지방에 거점에 둔 금융지주에서는 iM금융과 BNK금융이 신종자본증권 카드를 꺼내 들었다. iM금융은 1000억원을 신종자본증권을 통해 조달할 계획이다. BNK금융은 최대 1500억원어치 신종자본증권을 발행한다는 방침이다.\n\n금융지주들이 앞다퉈 자본 확충에 나선 것은 기존에 발행한 신종자본증권의 차환 물량이 줄줄이 도래하기 때문이다. 예컨대 신한, 하나, 우리금융은 신종자본증권으로 조달하는 자금의 대부분을 채무상환용으로 쓸 계획이다. 계열사 지원 등 운영자금 확보를 위해 신종자본증권을 활용하는 경우도 있다. 농협금융은 NH투자증권 등 계열사 유상증자 자금을 지원하기 위해 이번 신종자본증권 발행에 나선 것으로 알려졌다.\n\n신종자본증권 조달 환경이 개선되고 있는 것도 호재다. 한 금융지주 관계자는 “보험사보다 신용도가 높은 금융지주 신종자본증권의 희소성이 높아지고 있다”며 “기관과 개인투자자의 관심이 커 목표 물량을 모두 채울 가능성이 크다”고 말했다.\n\n장현주 기자 blacksea@hankyung.com",
+  "published_at": "2025-08-06T17:30:00+09:00",
+  "author": "장현주",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/2025080654941",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "신한지주": {
+        "original_mention": "신한",
+        "mapped_name": "신한지주",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "신종자본증권 발행 계획 발표",
+        "stock_code": "055550"
+      },
+      "하나금융지주": {
+        "original_mention": "하나",
+        "mapped_name": "하나금융지주",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "신종자본증권 발행 계획 발표",
+        "stock_code": "086790"
+      },
+      "우리금융지주": {
+        "original_mention": "우리",
+        "mapped_name": "우리금융지주",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "신종자본증권 발행 계획 발표",
+        "stock_code": "316140"
+      },
+      "농협금융": {
+        "original_mention": "농협금융",
+        "mapped_name": "농협금융",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "신종자본증권 발행 계획 발표",
+        "stock_code": null
+      },
+      "iM금융": {
+        "original_mention": "iM금융",
+        "mapped_name": "iM금융",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "신종자본증권 발행 계획 발표",
+        "stock_code": null
+      },
+      "BNK금융지주": {
+        "original_mention": "BNK금융",
+        "mapped_name": "BNK금융지주",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "신종자본증권 발행 계획 발표",
+        "stock_code": "138930"
+      }
+    },
+    "relations": []
+  }
+}

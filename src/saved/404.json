@@ -1,0 +1,116 @@
+{
+  "title": "25일, 외국인 거래소에서 삼성에피스홀딩스(-23.49%), 삼성바이오로직스(-9.06%) 등 순매도",
+  "description": "25일, 외국인 거래소에서 삼성에피스홀딩스(-23.49%), 삼성바이오로직스(-9.06%) 등 순매도, 증권",
+  "content": "외국인 투자자는 25일 거래소에서 삼성에피스홀딩스, 삼성바이오로직스, NAVER 등을 중점적으로 매도한 것으로 나타났다.\n\n외국인 투자자의 순매도 상위 20개 종목은 삼성에피스홀딩스, 삼성바이오로직스, NAVER, 두산, 한화오션, 한국항공우주, 삼성전기, KODEX 200선물인버스2X, HD현대마린솔루션, 하이브등이다.\n\n이중에 운수장비 업종에 속한 종목이 2개 포함되어 있다.\n\n한국항공우주, 삼성전기, 현대엘리베이터 등은 전일 대비 주가가 상승했고, 삼성에피스홀딩스, 삼성바이오로직스, NAVER 등은 주가가 하락했다.\n\n[11월25일]거래소 외국인 순매도 상위 종목\n\n\n\n\n\n한경로보뉴스\n\n이 기사는 한국경제신문과 금융 AI 전문기업 씽크풀이 공동 개발한 기사 자동생성 알고리즘에 의해 실시간으로 작성된 것입니다.",
+  "published_at": "2025-11-25T18:35:10+09:00",
+  "author": "한경로보뉴스",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/202511255207L",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "삼성에피스홀딩스": {
+        "original_mention": "삼성에피스홀딩스",
+        "mapped_name": "삼성에피스홀딩스",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": null
+      },
+      "삼성바이오로직스": {
+        "original_mention": "삼성바이오로직스",
+        "mapped_name": "삼성바이오로직스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "207940"
+      },
+      "NAVER": {
+        "original_mention": "NAVER",
+        "mapped_name": "NAVER",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "035420"
+      },
+      "두산": {
+        "original_mention": "두산",
+        "mapped_name": "두산",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "000150"
+      },
+      "한화오션": {
+        "original_mention": "한화오션",
+        "mapped_name": "한화오션",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "009540"
+      },
+      "한국항공우주": {
+        "original_mention": "한국항공우주",
+        "mapped_name": "한국항공우주",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "주가 상승",
+        "stock_code": "047810"
+      },
+      "삼성전기": {
+        "original_mention": "삼성전기",
+        "mapped_name": "삼성전기",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "주가 상승",
+        "stock_code": "009150"
+      },
+      "HD현대마린솔루션": {
+        "original_mention": "HD현대마린솔루션",
+        "mapped_name": "HD현대마린솔루션",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "011200"
+      },
+      "하이브": {
+        "original_mention": "하이브",
+        "mapped_name": "하이브",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "352820"
+      },
+      "현대엘리베이터": {
+        "original_mention": "현대엘리베이터",
+        "mapped_name": "현대엘리베이터",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "주가 상승",
+        "stock_code": "017800"
+      }
+    },
+    "relations": []
+  }
+}

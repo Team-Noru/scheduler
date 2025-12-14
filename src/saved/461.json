@@ -1,0 +1,76 @@
+{
+  "title": "금융지주 영구채 완판…우리·BNK 이달 출격",
+  "description": "금융지주 영구채 완판…우리·BNK 이달 출격, 메리츠·신한 수요예측 뭉칫돈 자본 확충·유동성 확보 순항",
+  "content": "금융지주들이 신종자본증권(영구채) 수요예측에서 연일 흥행에 성공하고 있다. 조달 환경이 개선된 시기에 ‘자본 확충’과 ‘유동성 확보’를 모두 잡겠다는 게 금융지주의 구상이다.\n\n10일 금융권에 따르면 메리츠금융은 오는 16일 발행 예정인 영구채를 기존 1000억원에서 1300억원으로 늘리기로 했다. 지난 8일 진행된 수요예측에서 목표 물량을 뛰어넘는 1300억원의 매수 자금이 접수되면서 발행 규모를 확대했다.\n\niM금융도 8일 열린 1000억원 규모 영구채 수요예측에서 2160억원의 자금을 확보했다. 당초 최대 연 3.7%의 금리를 제시했지만, 흥행에 성공하면서 연 3.43%로 조달 비용을 낮췄다.\n\n금융지주 영구채의 인기는 갈수록 높아지고 있다. 앞서 진행된 신한금융과 한국투자금융의 영구채 수요예측에서도 ‘뭉칫돈’이 접수됐다. 신한금융은 2700억원 모집에 7810억원, 한국투자금융은 2500억원 모집에 5190억원의 유효 주문이 들어왔다. 신한금융은 4000억원, 한국투자금융은 4500억원으로 발행 규모를 늘리는 데 성공했다.\n\n자본 건전성 개선을 위해 금융지주들이 영구채 카드를 활용하고 있는 것으로 풀이된다. 영구채는 국제결제은행(BIS) 기준 자기자본비율 산정 때 자본으로 인정받을 수 있어 금융사가 주로 활용한다. 조달 환경도 개선됐다. 그동안 발행 비중이 컸던 보험사 영구채 물량이 줄어들면서 금융지주 영구채가 상대적으로 희소성이 커졌다는 분석이다.\n\n후속 주자들도 출격을 대기 중이다. 우리금융은 오는 15일, BNK금융은 21일 영구채 수요예측이 예정돼 있다.\n\n장현주 기자 blacksea@hankyung.com",
+  "published_at": "2025-09-10T17:08:54+09:00",
+  "author": "장현주",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/2025091056881",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "메리츠금융": {
+        "original_mention": "메리츠금융",
+        "mapped_name": "메리츠금융",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "영구채 발행 규모를 확대하며 흥행에 성공",
+        "stock_code": null
+      },
+      "iM금융": {
+        "original_mention": "iM금융",
+        "mapped_name": "iM금융",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "영구채 수요예측에서 목표를 초과하는 자금 확보",
+        "stock_code": null
+      },
+      "신한지주": {
+        "original_mention": "신한금융",
+        "mapped_name": "신한지주",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "영구채 수요예측에서 목표를 초과하는 자금 확보",
+        "stock_code": "055550"
+      },
+      "한국투자금융": {
+        "original_mention": "한국투자금융",
+        "mapped_name": "한국투자금융",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "영구채 수요예측에서 목표를 초과하는 자금 확보",
+        "stock_code": null
+      },
+      "우리금융지주": {
+        "original_mention": "우리금융",
+        "mapped_name": "우리금융지주",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "영구채 수요예측 예정",
+        "stock_code": "316140"
+      },
+      "BNK금융": {
+        "original_mention": "BNK금융",
+        "mapped_name": "BNK금융",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "영구채 수요예측 예정",
+        "stock_code": "138930"
+      }
+    },
+    "relations": []
+  }
+}

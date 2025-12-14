@@ -1,0 +1,58 @@
+{
+  "title": "[책마을] 반도체 전쟁은 국가 총력전이다",
+  "description": "반도체 전쟁은 국가 총력전이다, 삼성전자 전 부사장이 말하는 K-반도체 초격차전략 이병철 지음 더봄 / 384쪽│2만5000원",
+  "content": "[IMG]\n\n                            \n                        \n                        \n                    \n                반도체산업은 전쟁 중이다. 지난 10일 김정관 산업통상부 장관은 대통령실에서 ‘인공지능(AI) 시대, K-반도체 비전과 육성전략 보고회’에 참석해 “서부전선(중국)은 1000억달러 펀드를 만들었고, 동부전선(미국)은 530억달러 보조금을 쏟아붓고 있다”며 “1차 전쟁이 모바일, 2차 전쟁이 데이터센터발(發)이었다면 3차 반도체 전쟁은 AI 패권을 둘러싼 국가 총력전”이라고 했다.\n\n국가의 미래를 건 전쟁 상황에서 눈여겨볼 ‘전략집’이 최근 출간됐다. 이병철 전 삼성전자 부사장은 &lt;삼성전자 전 부사장이 말하는 K-반도체 초격차전략&gt;을 통해 “한국의 반도체 전략이 기술 연구개발(R&amp;D)에만 머물러서는 절대 생존할 수 없다”고 강조한다. 기술 초격차와 기업 외교가 더해져야 한다는 것이다. 이 전 부사장은 1989년 삼성전자에 입사해 2005~2020년 재임한 삼성그룹 내 최장수 중국 주재원이다. 삼성 반도체 시안 공장 투자와 삼성SDI 배터리 프로젝트 협상, 사드(고고도 미사일방어체계) 사태, 미·중 전략경쟁 등을 현지에서 대응했다.\n\n반도체산업에 관한 책이지만 배터리, 자율주행, 바이오 등 다른 산업으로 바꿔 읽어도 참고가 될 법한 내용이다. 미국과 중국 정부는 최근 노골적으로 자국 기술 기업을 지원하며 시장 규칙을 뒤흔들고 있다.\n\n책 말미의 저자의 당부는 절박함을 담고 있다. “국가는 외교와 정책으로 환경을 만들고, 기업은 기술과 전략으로 경쟁력을 높이며, 국민은 이해와 지지로 힘을 보태야 한다.”\n\n현오석 전 부총리 겸 기획재정부 장관은 이 책을 “우리가 처한 현실을 냉정히 직시하고 사고의 지평을 넓혀주는 이정표”라고 평했다.\n\n구은서 기자 koo@hankyung.com",
+  "published_at": "2025-12-12T16:49:55+09:00",
+  "author": "구은서",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202512/AA.42664122.1.jpg"
+  ],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/2025121206601",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "삼성전자": {
+        "original_mention": "삼성전자",
+        "mapped_name": "삼성전자",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기사에서 삼성전자의 역할과 관련된 중립적인 정보 제공",
+        "stock_code": "005930"
+      },
+      "삼성SDI": {
+        "original_mention": "삼성SDI",
+        "mapped_name": "삼성SDI",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "삼성SDI의 배터리 프로젝트 협상 관련 정보 제공",
+        "stock_code": "006400"
+      },
+      "미국": {
+        "original_mention": "미국",
+        "mapped_name": "미국",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "USA",
+        "sentiment": "중립",
+        "sentiment_reason": "미국 정부의 기술 기업 지원 관련 정보 제공",
+        "stock_code": null
+      },
+      "중국": {
+        "original_mention": "중국",
+        "mapped_name": "중국",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Other",
+        "sentiment": "중립",
+        "sentiment_reason": "중국 정부의 기술 기업 지원 관련 정보 제공",
+        "stock_code": null
+      }
+    },
+    "relations": []
+  }
+}

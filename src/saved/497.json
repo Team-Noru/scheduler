@@ -1,0 +1,91 @@
+{
+  "title": "네이버웹툰 나스닥 상장 돌입…NAVER 수혜 가능성은?",
+  "description": "네이버웹툰 나스닥 상장 돌입…NAVER 수혜 가능성은?, 네이버웹툰 나스닥 상장 본격 착수 공모 흥행 통해 자회사 중복 상장 해결 필요",
+  "content": "[IMG]\n\n                            \n                        \n                        \n                    \n                네이버웹툰이 미국 나스닥 상장 절차에 착수한 가운데 국내 웹툰 관련주들이 강세를 보이는 반면, 모회사인 NAVER는 약세를 나타내고 있다.\n\n7일 오전 9시 33분 미스터블루는 전일 대비 4.36% 오른 2,755원에 거래되고 있다. 이외에 와이랩(+2.83%), 핑거스토리(+2.03%) 등도 오름세다. 반면, 모회사인 NAVER의 주가는 0.34% 내린 17만 6,500원에 거래되고 있다.\n\n외신과 IT(정보기술) 업계 등에 따르면 네이버웹툰 본사인 웹툰 엔터테인먼트는 미국 나스닥 상장 절차에 본격 돌입했다. 블룸버그는 웹툰 엔터테인먼트의 기업 가치를 최대 40억 달러(약 5조 5,400억 원)로 예상한다. 웹툰 업계 최대 대형주가 상장에 나선 만큼 웹툰이 하나의 섹터로 인정받을 수 있다는 기대감과 함께 관련주들이 상승에 나선 것으로 풀이된다.\n\n한편, 네이버웹툰의 상장으로 NAVER 역시 새로운 주가 모멘텀을 기대할 수 있느냐는 질문에 증권가에서는 양면이 존재한다고 설명했다.\n\n오동환 삼성증권 연구원은 \"웹툰엔터테인먼트의 상장으로 해외 시장 확대에 필요한 자금 확보와 글로벌 시장에서 인지도 제고 효과를 기대할 수 있는 점은 긍정적\"이라고 밝혔다.\n\n하지만 네이버 입장에서는 자회사 중복 상장에 대한 부담이 존재하는 만큼 공모 흥행을 통행 이를 상쇄할 필요가 있다는 게 오 연구원의 설명이다. 실제로 사업 모델이 가장 유사한 중국의 웹툰, 웹소설 플랫폼인 웨원그룹(China Literature)이 23년 기준 3.8배 PSR(주가매출비율)에 거래되고 있어 웹툰엔터테인먼트의 공모 밸류에이션이 이를 넘어서느냐가 흥행의 기준이 될 전망이라고 덧붙였다.\n\n\n김동하기자 hdk@wowtv.co.kr",
+  "published_at": "2024-06-07T09:39:00+09:00",
+  "author": "김동하 기자 hdk@wowtv.co.kr",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202406/B20230531164559280.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202406/B20230531164559280.jpg",
+  "content_url": "https://www.hankyung.com/article/2024060707095",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "NAVER": {
+        "original_mention": "NAVER",
+        "mapped_name": "NAVER",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "모회사인 NAVER는 약세를 나타내고 있다.",
+        "stock_code": "035420"
+      },
+      "미스터블루": {
+        "original_mention": "미스터블루",
+        "mapped_name": "미스터블루",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "미스터블루는 전일 대비 4.36% 오른 2,755원에 거래되고 있다.",
+        "stock_code": "207760"
+      },
+      "와이랩": {
+        "original_mention": "와이랩",
+        "mapped_name": "와이랩",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "와이랩(+2.83%) 등도 오름세다.",
+        "stock_code": "432250"
+      },
+      "핑거스토리": {
+        "original_mention": "핑거스토리",
+        "mapped_name": "핑거스토리",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "핑거스토리(+2.03%) 등도 오름세다.",
+        "stock_code": "317530"
+      },
+      "웹툰 엔터테인먼트": {
+        "original_mention": "웹툰 엔터테인먼트",
+        "mapped_name": "웹툰 엔터테인먼트",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "USA",
+        "sentiment": "긍정",
+        "sentiment_reason": "웹툰 엔터테인먼트의 상장으로 해외 시장 확대에 필요한 자금 확보와 글로벌 시장에서 인지도 제고 효과를 기대할 수 있는 점은 긍정적.",
+        "stock_code": null
+      },
+      "웨원그룹": {
+        "original_mention": "웨원그룹",
+        "mapped_name": "웨원그룹",
+        "listing_status": "상장",
+        "exchange": "HKEX",
+        "country": "Other",
+        "sentiment": "중립",
+        "sentiment_reason": "사업 모델이 가장 유사한 중국의 웹툰, 웹소설 플랫폼인 웨원그룹이 23년 기준 3.8배 PSR에 거래되고 있어 웹툰엔터테인먼트의 공모 밸류에이션이 이를 넘어서느냐가 흥행의 기준이 될 전망.",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "NAVER",
+        "target": "웹툰 엔터테인먼트",
+        "relation_type": "모회사",
+        "relation_reason": "모회사인 NAVER는 약세를 나타내고 있다.",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "035420",
+        "target_is_listed": false,
+        "target_country": "USA",
+        "target_ticker": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "title": "12일, 기관 거래소에서 삼성전자(+1.49%), SK하이닉스(+1.06%) 등 순매수",
+  "description": "12일, 기관 거래소에서 삼성전자(+1.49%), SK하이닉스(+1.06%) 등 순매수, 증권",
+  "content": "기관 투자자는 12일 거래소에서 삼성전자, SK하이닉스, 두산에너빌리티 등을 중점적으로 사들인 것으로 나타났다.\n\n기관 투자자의 순매수 상위 20개 종목은 삼성전자, SK하이닉스, 두산에너빌리티, KODEX 레버리지, 한화에어로스페이스, 현대모비스, KB금융, 한화시스템, 현대건설, LS등이다.\n\n이중에 전기,전자 업종에 속한 종목이 5개 포함되어 있다.\n\n이날 기관 투자자가 순매수한 종목들 중에 삼성전자, SK하이닉스, 두산에너빌리티 등은 전일 대비 주가가 상승했다.\n\n[12월12일]거래소 기관 순매수 상위 종목\n\n\n\n\n\n한경로보뉴스\n\n이 기사는 한국경제신문과 금융 AI 전문기업 씽크풀이 공동 개발한 기사 자동생성 알고리즘에 의해 실시간으로 작성된 것입니다.",
+  "published_at": "2025-12-12T18:35:11+09:00",
+  "author": "한경로보뉴스",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/202512121003L",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "삼성전자": {
+        "original_mention": "삼성전자",
+        "mapped_name": "삼성전자",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "기관 투자자의 순매수로 주가 상승",
+        "stock_code": "005930"
+      },
+      "SK하이닉스": {
+        "original_mention": "SK하이닉스",
+        "mapped_name": "SK하이닉스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "기관 투자자의 순매수로 주가 상승",
+        "stock_code": "000660"
+      },
+      "두산에너빌리티": {
+        "original_mention": "두산에너빌리티",
+        "mapped_name": "두산에너빌리티",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "기관 투자자의 순매수로 주가 상승",
+        "stock_code": "034020"
+      },
+      "KODEX 레버리지": {
+        "original_mention": "KODEX 레버리지",
+        "mapped_name": "KODEX 레버리지",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수",
+        "stock_code": "122630"
+      },
+      "한화에어로스페이스": {
+        "original_mention": "한화에어로스페이스",
+        "mapped_name": "한화에어로스페이스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수",
+        "stock_code": "012450"
+      },
+      "현대모비스": {
+        "original_mention": "현대모비스",
+        "mapped_name": "현대모비스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수",
+        "stock_code": "012330"
+      },
+      "KB금융": {
+        "original_mention": "KB금융",
+        "mapped_name": "KB금융",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수",
+        "stock_code": "105560"
+      },
+      "한화시스템": {
+        "original_mention": "한화시스템",
+        "mapped_name": "한화시스템",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수",
+        "stock_code": "272210"
+      },
+      "현대건설": {
+        "original_mention": "현대건설",
+        "mapped_name": "현대건설",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수",
+        "stock_code": "000720"
+      },
+      "LS": {
+        "original_mention": "LS",
+        "mapped_name": "LS",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수",
+        "stock_code": "006260"
+      }
+    },
+    "relations": []
+  }
+}

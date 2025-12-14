@@ -1,0 +1,51 @@
+{
+  "title": "삼성물산 수주공시 - ENGINEERING, PROCUREMENT, INSTALLATION AND COMMISSIONING OF DUKHAN SOLAR POWER PLANT 1.54조 (매출액대비  3.66 %)",
+  "description": "삼성물산 수주공시 - ENGINEERING, PROCUREMENT, INSTALLATION AND COMMISSIONING OF DUKHAN SOLAR POWER PLANT 1.54조 (매출액대비 3.66 %), 증권",
+  "content": "12월 12일 삼성물산(028260)은 수주공시를 발표했다.\n\n◆삼성물산 수주공시 개요\n- ENGINEERING, PROCUREMENT, INSTALLATION AND COMMISSIONING OF DUKHAN SOLAR POWER PLANT 1.54조 (매출액대비  3.66 %)\n\n삼성물산(028260)은 ENGINEERING, PROCUREMENT, INSTALLATION AND COMMISSIONING OF DUKHAN SOLAR POWER PLANT에 관한 단일판매ㆍ공급계약체결              을 12일에 공시했다.\n계약 상대방은 QatarEnergy (카타르)이고, 계약금액은 1.54조 규모로 최근 삼성물산 매출액 42.1조 대비 약  3.66 % 수준이다. 이번 계약의 기간은 2025년 09월 01일 부터 2030년 02월 28일까지로 약 4년 5개월이다.\n한편 이번 계약수주는 2025년 12월 11일에 체결된 것으로 보고되었다.\n                    \n                        \n                            \n[IMG]\n\n                            \n                        \n                        차트\n                    \n                수주 공시는 향후 기업의 실적에 직접적인 영향을 미치기 때문에 계약의 규모, 계약 기간 등에 대해서 주의 깊게 살펴볼 필요가 있다. 특히 수주 공시가 늘어나는데 주가는 움직이지 않는다면 매수 관점에서 접근해 볼 수도 있다.\n\n한경로보뉴스\n\n이 기사는 한국경제신문과 금융 AI 전문기업 씽크풀이 공동 개발한 기사 자동생성 알고리즘에 의해 실시간으로 작성된 것입니다.",
+  "published_at": "2025-12-12T17:30:25+09:00",
+  "author": "한경로보뉴스",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202512/20251212_44454_SGOS02_028260.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202512/20251212_44454_SGOS02_028260.jpg",
+  "content_url": "https://www.hankyung.com/article/202512120855L",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "삼성물산": {
+        "original_mention": "삼성물산",
+        "mapped_name": "삼성물산",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "대규모 수주 계약 체결로 인한 긍정적 실적 전망",
+        "stock_code": "028260"
+      },
+      "QatarEnergy": {
+        "original_mention": "QatarEnergy",
+        "mapped_name": "QatarEnergy",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Other",
+        "sentiment": "중립",
+        "sentiment_reason": "계약 상대방으로서의 중립적 역할",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "삼성물산",
+        "target": "QatarEnergy",
+        "relation_type": "고객사",
+        "relation_reason": "QatarEnergy와의 대규모 계약 체결",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "028260",
+        "target_is_listed": false,
+        "target_country": "Other",
+        "target_ticker": null
+      }
+    ]
+  }
+}

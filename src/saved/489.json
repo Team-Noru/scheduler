@@ -1,0 +1,38 @@
+{
+  "title": "LG화학, 3분기 실적 부진에 6%대 '급락'",
+  "description": "LG화학, 3분기 실적 부진에 6%대 급락, LG화학 우선주도 3%대↓",
+  "content": "[IMG]\n\n                            \n                        \n                        LG그룹 사옥 전경./사진=연합뉴스\n                    \n                LG화학 주가가 장 초반 급락세다. LG화학의 올 3분기 실적이 시장 기대에 미치지 못하면서 실망 매물이 나온 영향으로 풀이된다.\n\n29일 오전 9시27분 현재 LG화학은 전 거래일 대비 2만1000원(6.19%) 내린 31만8000원을 기록 중이다. 우선주인 LG화학우도 8000원(3.5%) 빠진 22만500원을 나타내고 있다.\n\nLG화학의 지난 3분기 영업이익은 전년 동기 대비 42% 줄어든 4984억원으로 집계됐다. 이는 시장 컨센서스(증권사 추정치 평균)를 약 4.5% 밑도는 수준이다.\n\n한승재 DB금융투자 연구원은 \"올 4분기 영업손실은 2628억원으로 시장 추정치인 5234억원을 크게 밑돌 전망\"이라며 \"양극재는 고객사 재고 조정 영향으로 출하량 감소와 메탈가 하락에 따른 평균판매단가(ASP) 하락이 동반되면서 수익성이 손익분기점(BEP) 수준으로 낮아질 것\"이라고 예상했다.\n\n고정삼 한경닷컴 기자 jsk@hankyung.com",
+  "published_at": "2024-10-29T09:39:43+09:00",
+  "author": "고정삼",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202410/AD.25751358.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202410/AD.25751358.1.jpg",
+  "content_url": "https://www.hankyung.com/article/2024102953816",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "LG화학": {
+        "original_mention": "LG화학",
+        "mapped_name": "LG화학",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "3분기 실적 부진으로 주가 급락",
+        "stock_code": "051910"
+      },
+      "DB금융투자": {
+        "original_mention": "DB금융투자",
+        "mapped_name": "DB금융투자",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "분석 의견 제공",
+        "stock_code": "016610"
+      }
+    },
+    "relations": []
+  }
+}

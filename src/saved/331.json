@@ -1,0 +1,126 @@
+{
+  "title": "11일, 기관 거래소에서 이수페타시스(+0.2%), LG에너지솔루션(+1.02%) 등 순매수",
+  "description": "11일, 기관 거래소에서 이수페타시스(+0.2%), LG에너지솔루션(+1.02%) 등 순매수, 증권",
+  "content": "기관 투자자는 11일 거래소에서 이수페타시스, LG에너지솔루션, LG씨엔에스 등을 중점적으로 사들인 것으로 나타났다.\n\n기관 투자자의 순매수 상위 20개 종목은 이수페타시스, LG에너지솔루션, LG씨엔에스, 한화엔진, 한화오션, 산일전기, 현대오토에버, 삼성화재, HD현대마린솔루션, 고려아연등이다.\n\n이중에 전기,전자 업종에 속한 종목이 5개 포함되어 있다.\n\n이수페타시스, LG에너지솔루션, LG씨엔에스 등은 전일 대비 주가가 상승했고, 한화엔진, HD현대중공업 등은 주가가 하락했다.\n\n[12월11일]거래소 기관 순매수 상위 종목\n\n\n\n\n\n한경로보뉴스\n\n이 기사는 한국경제신문과 금융 AI 전문기업 씽크풀이 공동 개발한 기사 자동생성 알고리즘에 의해 실시간으로 작성된 것입니다.",
+  "published_at": "2025-12-11T18:35:10+09:00",
+  "author": "한경로보뉴스",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/202512118763L",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "이수페타시스": {
+        "original_mention": "이수페타시스",
+        "mapped_name": "이수페타시스",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "기관 투자자의 순매수 상위 종목에 포함",
+        "stock_code": "007660"
+      },
+      "LG에너지솔루션": {
+        "original_mention": "LG에너지솔루션",
+        "mapped_name": "LG에너지솔루션",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "기관 투자자의 순매수 상위 종목에 포함",
+        "stock_code": "373220"
+      },
+      "LG씨엔에스": {
+        "original_mention": "LG씨엔에스",
+        "mapped_name": "LG씨엔에스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "기관 투자자의 순매수 상위 종목에 포함",
+        "stock_code": "375500"
+      },
+      "한화엔진": {
+        "original_mention": "한화엔진",
+        "mapped_name": "한화엔진",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "주가 하락",
+        "stock_code": "045100"
+      },
+      "한화오션": {
+        "original_mention": "한화오션",
+        "mapped_name": "한화오션",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수 상위 종목에 포함",
+        "stock_code": "042660"
+      },
+      "산일전기": {
+        "original_mention": "산일전기",
+        "mapped_name": "산일전기",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수 상위 종목에 포함",
+        "stock_code": "038540"
+      },
+      "현대오토에버": {
+        "original_mention": "현대오토에버",
+        "mapped_name": "현대오토에버",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수 상위 종목에 포함",
+        "stock_code": "307950"
+      },
+      "삼성화재": {
+        "original_mention": "삼성화재",
+        "mapped_name": "삼성화재",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수 상위 종목에 포함",
+        "stock_code": "000810"
+      },
+      "HD현대마린솔루션": {
+        "original_mention": "HD현대마린솔루션",
+        "mapped_name": "HD현대마린솔루션",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수 상위 종목에 포함",
+        "stock_code": "010140"
+      },
+      "고려아연": {
+        "original_mention": "고려아연",
+        "mapped_name": "고려아연",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기관 투자자의 순매수 상위 종목에 포함",
+        "stock_code": "010130"
+      },
+      "HD현대중공업": {
+        "original_mention": "HD현대중공업",
+        "mapped_name": "HD현대중공업",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "주가 하락",
+        "stock_code": "329180"
+      }
+    },
+    "relations": []
+  }
+}

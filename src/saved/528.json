@@ -1,0 +1,38 @@
+{
+  "title": "[한경유레카 특징주] POSCO홀딩스, 본업의 부활 기대",
+  "description": "POSCO홀딩스, 본업의 부활 기대, 증권",
+  "content": "한경유레카는 AI알고리즘들의 개별 종목 투자의견(점수)을 한눈에 볼 수 있는 투자 플랫폼입니다. '한경유레카' 앱을 내려받으면 종목별 투자의견과 나에게 맞는 AI알고리즘을 추천받을 수 있습니다.\n                    \n                        \n                            \n[IMG]\n\n                            \n                        \n                        \n                    \n                \n11일 POSCO홀딩스가 강세다. POSCO홀딩스는 오후 14시 10분 전일대비 3% 오른 32만3500원에 거래되고 있다.\n\n전일 한국투자증권은 POSCO홀딩스의 2분기 실적이 컨센서스를 하회할 것으로 예상했다. \n\n철강은 선전했으나 건설 및 2차전지 소재가 부진했고 이에 인프라와 에너지 부분의 영업이익이 감소했을 것으로 예상했다.\n\n다만, 철강 제품에 대한 반덤핑 과세 부과와 중국의 정책이 맞물리면서 철강 사이클의 바닥이 기존에 예상한 올해 하반기가 아니라 1분기로 이미 지났다고 판단했다. \n\n일부 사업이 부진했으나 본업인 철강이 10년 만에 상승 사이클로 진입하고 본업의 부활은 언제나 주가의 상승 요인으로 작용한다며 매수의견과 목표주가 50만원을 유지했다.\n\nAI알고리즘들의 투자의견을 모아 종합의견을 제시하는 한경유레카도 POSCO홀딩스에 대해 7월 1일 매수의견을 제시하면서 긍정적으로 바라보고 있다.\n\n한경유레카에서는 관심 종목을 등록하면 AI알고리즘들의 종합의견을 무료로 확인할 수 있으며 매매의견이 변동되면 오전 8시 30분에 앱을 통해 알림 서비스를 제공한다.\n\n한경닷컴 뉴스룸 open@hankyung.com",
+  "published_at": "2025-07-11T14:18:43+09:00",
+  "author": "한국경제",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202507/01.36984525.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202507/01.36984525.1.jpg",
+  "content_url": "https://www.hankyung.com/article/202507112751O",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "POSCO홀딩스": {
+        "original_mention": "POSCO홀딩스",
+        "mapped_name": "POSCO홀딩스",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "본업인 철강의 부활과 매수의견 유지로 긍정적 전망",
+        "stock_code": "005490"
+      },
+      "한국투자증권": {
+        "original_mention": "한국투자증권",
+        "mapped_name": "한국투자증권",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "POSCO홀딩스의 2분기 실적이 컨센서스를 하회할 것으로 예상",
+        "stock_code": "071050"
+      }
+    },
+    "relations": []
+  }
+}

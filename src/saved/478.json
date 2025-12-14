@@ -1,0 +1,38 @@
+{
+  "title": "삼성전자·SK하이닉스 올해 법인세 '9배' 증가…반도체 호황 영향",
+  "description": "삼성전자·SK하이닉스 올해 법인세 9배 증가…반도체 호황 영향, 양사 올해 법인세 6.2조 납부 전년 동기 대비 9배 증가 SK하이닉스 지난해 比 46배↑",
+  "content": "[IMG]\n\n                            \n                        \n                        사진=한경DB\n                    \n                삼성전자와 SK하이닉스가 올해 법인세로 6조원을 넘게 냈다. 전년 대비 9배 많은 수준이다. 반도체 호황 영향으로 기업의 영업이익이 늘어나 법인세도 증가한 것으로 풀이된다.\n\n23일 각 사 분기 보고서에 따르면 삼성전자·SK하이닉스가 올해 1~3분기 납부한 법인세 총액은 6조2310억 원에 다다랐다. 전년 동기 7010억원보다 약 9배 많았다.\n\n삼성전자가 납부한 금액은 지난해 6070억원에서 올해 1조8860억원으로 약 3배 늘었다.\n\n같은 기간 SK하이닉스는 46배나 급증했다. SK하이닉스는 지난해 법인세 940억원에서 4조3440억원으로 뛰었다. 4조2500억원이 늘어난 것.\n\n삼성전자와 SK하이닉스의 법인세가 급증한 이유는 반도체 슈퍼사이클이 도래했기 때문이다. 글로벌 인공지능(AI) 산업의 성장 영향이 크다.\n\n양사는 영업이익도 급증했다. 지난 3분기 삼성전자와 SK하이닉스의 영업이익은 각각 작년 동기 대비 32.5%, 61.9% 늘어나 12조1661억원, 11조3834억원을 찍었다.\n\n박수빈 한경닷컴 기자 waterbean@hankyung.com",
+  "published_at": "2025-11-23T19:28:14+09:00",
+  "author": "박수빈",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202511/01.42275766.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202511/01.42275766.1.jpg",
+  "content_url": "https://www.hankyung.com/article/2025112305297",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "삼성전자": {
+        "original_mention": "삼성전자",
+        "mapped_name": "삼성전자",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "반도체 호황으로 인한 영업이익 증가",
+        "stock_code": "005930"
+      },
+      "SK하이닉스": {
+        "original_mention": "SK하이닉스",
+        "mapped_name": "SK하이닉스",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "반도체 호황으로 인한 영업이익 증가",
+        "stock_code": "000660"
+      }
+    },
+    "relations": []
+  }
+}

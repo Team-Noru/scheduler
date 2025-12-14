@@ -1,0 +1,51 @@
+{
+  "title": "'리튬광산에 1.1조 투자' 소식에...5% 급등한 포스코홀딩스",
+  "description": "리튬광산에 1.1조 투자 소식에...5% 급등한 포스코홀딩스, 양지윤 기자, 증권",
+  "content": "[IMG]\n\n                            \n                        \n                        \n                    \n                포스코홀딩스가 장초반 5% 가까운 상승세를 보이고 있다. 포스코홀딩스가 호주와 아르헨티나 우량 리튬 자원 확보를 위해 1조원 넘는 자금을 투자한다는 소식이 알려져서다. \n\n12일 오전 10시 현재 포스코홀딩스는 4.95% 오른 31만8000원에 거래 중이다. 이날 포스코홀딩스는 호주 대표 광산 기업인 미네랄 리소스가 새로 설립하는 중간 지주사의 지분 30%를 인수한다고 발표했다. 투자 금액은 약 7억6500만달러로, 한화로 1조1000억원 정도다. \n\n이번 투자를 통해 포스코홀딩스는 서호주의 대규모 리튬 광산인 워지나 광산과 마운트 마리온 광산으로부터 27만t의 리튬 정광을 확보할 수 있게 됐다. 이는 수산화리튬 3만7000t을 생산할 수 있는 양이다. 이번 투자로 포스코홀딩스는 광산 경영 참여 및 배당 수익 확보도 가능해졌다. \n\n양지윤 기자 yang@hankyung.com",
+  "published_at": "2025-11-12T10:03:47+09:00",
+  "author": "양지윤",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202511/01.42352074.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202511/01.42352074.1.jpg",
+  "content_url": "https://www.hankyung.com/article/202511128655i",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "포스코홀딩스": {
+        "original_mention": "포스코홀딩스",
+        "mapped_name": "POSCO홀딩스",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "리튬광산에 1.1조 투자 소식으로 주가 상승",
+        "stock_code": "005490"
+      },
+      "미네랄 리소스": {
+        "original_mention": "미네랄 리소스",
+        "mapped_name": "미네랄 리소스",
+        "listing_status": "상장",
+        "exchange": "Australian Securities Exchange",
+        "country": "Australia",
+        "sentiment": "중립",
+        "sentiment_reason": "포스코홀딩스의 투자 대상",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "POSCO홀딩스",
+        "target": "미네랄 리소스",
+        "relation_type": "파트너",
+        "relation_reason": "포스코홀딩스가 미네랄 리소스의 중간 지주사 지분 인수",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "005490",
+        "target_is_listed": true,
+        "target_country": "Australia",
+        "target_ticker": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "\"호주 리튬 광산에 1조 투자\"…포스코홀딩스 3%대 '강세'",
+  "description": "호주 리튬 광산에 1조 투자…포스코홀딩스 3%대 강세, 진영기 기자, 증권",
+  "content": "[IMG]\n\n                            \n                        \n                        \n                    \n                POSCO홀딩스(포스코홀딩스)가 강세를 보이고 있다. 리튬 확보를 위해 호주 광산과에 투자한다는 소식이 전해지면서다.\n\n12일 오후 9시43분 현재 포스코홀딩스는 전일 대비 1만5000원(4.95%) 오른 31만8000원에 거래되고 있다. 주가는 장중 6.11% 오른 32만1500원까지 상승했다.\n\n신규 투자 기대감에 투자심리가 개선된 것으로 풀이된다. 이날 포스코홀딩스는 호주의 대표 광산기업인 미네랄 리소스(Mineral Resources)가 신규 설립하는 중간 지주사의 지분 30% 인수를 결정했다고 밝혔다. 투자금액은 약 7억6500만달러, 약 1조1000억원 규모다. \n\n포스코홀딩스는 원가 경쟁력 강화, 안정적 원료 확보를 위해 투자를 결정했다고 밝혔다. 이번 투자를 통해 포스코홀딩스는 미네랄 리소스가 서호주에서 운영 중인 리튬 광산인 '워지나 광산'과 '마운트마리온 광산'으로부터 연간 27만t의 리튬 정광을 안정적으로 확보할 수 있게 된다.\n\n포스코홀딩스는 우량 염수 리튬 확보에도 속도를 내고 있다. 지난 5일 포스코홀딩스는 아르헨티나 옴브레 무에르토 염호 내 광권을 보유한 캐나다 자원 개발회사 LIS의 아르헨티나 법인 지분 100% 인수를 결정했다. 투자 규모는 6500만달러(약 950억원)다.\n\n진영기 한경닷컴 기자 young71@hankyung.com",
+  "published_at": "2025-11-12T09:47:25+09:00",
+  "author": "진영기",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202511/01.35801175.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202511/01.35801175.1.jpg",
+  "content_url": "https://www.hankyung.com/article/2025111285906",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "포스코홀딩스": {
+        "original_mention": "포스코홀딩스",
+        "mapped_name": "POSCO홀딩스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "호주 리튬 광산에 대한 대규모 투자 소식으로 주가 상승",
+        "stock_code": "005490"
+      },
+      "미네랄 리소스": {
+        "original_mention": "미네랄 리소스",
+        "mapped_name": "미네랄 리소스",
+        "listing_status": "상장",
+        "exchange": "ASX",
+        "country": "Australia",
+        "sentiment": "중립",
+        "sentiment_reason": "포스코홀딩스와의 투자 협력 소식",
+        "stock_code": "MIN"
+      },
+      "LIS": {
+        "original_mention": "LIS",
+        "mapped_name": "LIS",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Canada",
+        "sentiment": "중립",
+        "sentiment_reason": "포스코홀딩스의 지분 인수 소식",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "POSCO홀딩스",
+        "target": "미네랄 리소스",
+        "relation_type": "파트너",
+        "relation_reason": "포스코홀딩스가 미네랄 리소스의 중간 지주사 지분 30% 인수",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "005490",
+        "target_is_listed": true,
+        "target_country": "Australia",
+        "target_ticker": "MIN"
+      },
+      {
+        "source": "POSCO홀딩스",
+        "target": "LIS",
+        "relation_type": "파트너",
+        "relation_reason": "포스코홀딩스가 LIS의 아르헨티나 법인 지분 100% 인수",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "005490",
+        "target_is_listed": false,
+        "target_country": "Canada",
+        "target_ticker": null
+      }
+    ]
+  }
+}

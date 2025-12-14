@@ -1,0 +1,147 @@
+{
+  "title": "대한항공·아시아나 '기내 와이파이' 빨라진다",
+  "description": "대한항공·아시아나 기내 와이파이 빨라진다, 한진그룹 소속 5개 항공사 국내 최초 스타링크 도입 OTT·게임 등 끊김없이 이용",
+  "content": "국내 항공사 기내에서도 이르면 내년 하반기부터 미국 스페이스X의 위성 인터넷 서비스 ‘스타링크’를 이용할 수 있을 것으로 전망된다.\n\n한진그룹은 대한항공, 아시아나항공, 진에어, 에어부산, 에어서울 등의 항공기에 순차적으로 스타링크의 기내 와이파이 시스템을 적용할 예정이라고 5일 밝혔다. 국내 항공사에 스타링크가 도입되는 건 이번이 처음이다.\n\n한진그룹 소속 항공사들은 올해 말부터 스타링크 도입을 위한 제반 작업과 테스트 등 준비에 들어간다. 서비스 예상 개시 시점은 내년 3분기 이후다. 대한항공 관계자는 “기내 여행 경험이 이전과 완전히 달라질 것”이라고 말했다.\n\n일론 머스크가 이끄는 스페이스X의 스타링크는 8000개가 넘는 저궤도(고도 약 550㎞) 위성을 통해 최대 500Mbps 속도로 데이터를 주고받는다. 이에 따라 승객은 모든 좌석 클래스에서 기내 와이파이 서비스를 제공받게 된다. 스트리밍 서비스, 온라인 게임 및 쇼핑, 뉴스 시청, 메신저 등을 끊김 없이 이용할 수 있을 것으로 기대된다. 또 대용량 파일 전송, 클라우드 기반 협업 도구 사용 등 연속적인 업무도 가능해진다. 에어프랑스, 유나이티드항공, 에미레이트항공 등 글로벌 주요 항공사는 스타링크를 도입해 와이파이 서비스를 제공하고 있다.\n\n대한항공과 아시아나항공은 장거리 운항 기종인 보잉 777-300ER, 에어버스 A350-900 항공기에 이 시스템을 우선 적용할 방침이다. 두 회사는 통합 이후인 2027년 말까지 모든 항공기에 순차적으로 도입을 완료한다는 계획이다.\n\n진에어는 보잉 737-8 기종부터 스타링크 시스템을 적용한다. 에어부산과 에어서울은 도입할 기종을 검토하고 있다. 진에어·에어부산·에어서울은 대한항공과 아시아나항공의 통합 작업이 끝나는 2027년 초 통합 저비용항공사(LCC)로 출범할 예정이다.\n\n채드 깁스 스타링크 비즈니스 운영부문 부사장은 “스타링크를 통해 기내에서도 지상에서와 마찬가지로 생산적인 업무가 가능할 뿐만 아니라 영상 시청과 게임도 마음껏 즐길 수 있게 될 것”이라고 밝혔다.\n\n신정은 기자 newyearis@hankyung.com",
+  "published_at": "2025-12-05T17:19:24+09:00",
+  "author": "신정은",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/2025120567731",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "대한항공": {
+        "original_mention": "대한항공",
+        "mapped_name": "대한항공",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "스타링크 도입으로 기내 와이파이 서비스 개선 기대",
+        "stock_code": "003490"
+      },
+      "아시아나항공": {
+        "original_mention": "아시아나항공",
+        "mapped_name": "아시아나항공",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "스타링크 도입으로 기내 와이파이 서비스 개선 기대",
+        "stock_code": "020560"
+      },
+      "진에어": {
+        "original_mention": "진에어",
+        "mapped_name": "진에어",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "스타링크 도입으로 기내 와이파이 서비스 개선 기대",
+        "stock_code": "272450"
+      },
+      "에어부산": {
+        "original_mention": "에어부산",
+        "mapped_name": "에어부산",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "스타링크 도입으로 기내 와이파이 서비스 개선 기대",
+        "stock_code": "298690"
+      },
+      "에어서울": {
+        "original_mention": "에어서울",
+        "mapped_name": "에어서울",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "스타링크 도입으로 기내 와이파이 서비스 개선 기대",
+        "stock_code": null
+      },
+      "스페이스X": {
+        "original_mention": "스페이스X",
+        "mapped_name": "스페이스X",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "USA",
+        "sentiment": "중립",
+        "sentiment_reason": "스타링크 서비스 제공",
+        "stock_code": null
+      },
+      "스타링크": {
+        "original_mention": "스타링크",
+        "mapped_name": "스타링크",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "USA",
+        "sentiment": "중립",
+        "sentiment_reason": "기내 와이파이 서비스 제공",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "대한항공",
+        "target": "스페이스X",
+        "relation_type": "파트너",
+        "relation_reason": "스타링크 기내 와이파이 시스템 도입",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "003490",
+        "target_is_listed": false,
+        "target_country": "USA",
+        "target_ticker": null
+      },
+      {
+        "source": "아시아나항공",
+        "target": "스페이스X",
+        "relation_type": "파트너",
+        "relation_reason": "스타링크 기내 와이파이 시스템 도입",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "020560",
+        "target_is_listed": false,
+        "target_country": "USA",
+        "target_ticker": null
+      },
+      {
+        "source": "진에어",
+        "target": "스페이스X",
+        "relation_type": "파트너",
+        "relation_reason": "스타링크 기내 와이파이 시스템 도입",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "272450",
+        "target_is_listed": false,
+        "target_country": "USA",
+        "target_ticker": null
+      },
+      {
+        "source": "에어부산",
+        "target": "스페이스X",
+        "relation_type": "파트너",
+        "relation_reason": "스타링크 기내 와이파이 시스템 도입",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "298690",
+        "target_is_listed": false,
+        "target_country": "USA",
+        "target_ticker": null
+      },
+      {
+        "source": "에어서울",
+        "target": "스페이스X",
+        "relation_type": "파트너",
+        "relation_reason": "스타링크 기내 와이파이 시스템 도입",
+        "source_is_listed": false,
+        "source_country": "Korea",
+        "source_ticker": null,
+        "target_is_listed": false,
+        "target_country": "USA",
+        "target_ticker": null
+      }
+    ]
+  }
+}

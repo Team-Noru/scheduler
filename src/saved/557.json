@@ -1,0 +1,79 @@
+{
+  "title": "[도약하는 금융사] 하나금융지주, 해외 영업망 확대…3년내 '글로벌 톱50'",
+  "description": "하나금융지주, 해외 영업망 확대…3년내 글로벌 톱50, 금융지주",
+  "content": "하나금융지주는 2015년까지 해외 부문 자산과 순익 비중을 각각 10%, 15%까지 늘려 ‘글로벌 톱 50’을 목표로 하고 있다.\n\n하나금융은 총 22개국에 102개 영업망을 운영하고 있다. 하나은행은 중국 인도네시아 등 8개국에 진출해 있으며, 외환은행은 22개국에 50개에 이르는 영업망을 보유하고 있다. 하나대투증권도 중국과 홍콩 등에 진출해 있다.\n\n하나은행은 리테일 영업을 중심으로 현지화 전략을 추진하고 있다. 외환은행은 해외 현지에 진출한 국내 기업 지원을 중심으로 무역금융 등에 중점을 두고 있다. 두 은행이 상호보완함으로써 영업 시너지를 최대화한다는 전략이다.\n\n하나금융은 우선 중국 및 인도네시아 중심의 해외 영업망 확대 전략을 지속한다. 2007년 설립한 하나은행 중국법인은 베이징 등 주요 도시를 중심으로 현지에 진출한 한국 기업에 대한 영업과 현지화를 동시에 진행하고 있다. \n\n외환은행 중국법인은 톈진을 중심으로 한국 관련 기업 등에 대한 영업을 중점적으로 추진 중이다. 중국 내 하나은행의 경우 지난 8월 광저우에 분행을 설립하면서 중국 내 총 15개의 영업망을 확보했다. 연말까지 이를 18개로 늘릴 계획이다.\n\n하나은행의 인도네시아 현지법인인 ‘PT 뱅크 하나’는 26개 영업점을 운영하고 있다. 인도네시아 현지 기업 및 현지인을 상대로 한 영업에 역점을 두고 있다. 인도네시아 외환은행은 기업금융 부문의 우위를 바탕으로 3개 영업망을 통해 한국 기업 현지법인의 파트너로 자리매김하고 있다.\n\n하나금융은 지난 7월 미국 내 한국계 은행 중 유일한 연방은행 라이선스를 가지고 있는 BNB은행을 인수함으로써 미국 진출의 교두보도 마련했다. 하나금융은 다양한 상품과 전문화된 시스템 등을 접목하고 현지 전문인력을 주축으로 경영진을 구성해 현지화에 집중할 계획이다.\n\n하나금융은 이와 함께 베트남 호찌민(하나은행), 인도 첸나이(외환은행), 아랍에미리트 아부다비(외환은행) 등에 지점 설립을 추진하고 있다. 아직 진출하지 않은 미얀마, 터키 등 국가도 면밀한 시장 분석을 통해 진출을 고려하고 있다. \n\n하나금융은 해외 법인 및 지점의 현지화와 함께 하나금융 성장의 원동력인 ‘자주’ ‘자율’ ‘진취’의 문화를 현지 임직원들이 익힐 수 있도록 기업문화 연수를 늘리고 있다. 현지 임직원의 의식 변화가 현지화 과정에서 발생할 수 있는 다양한 문제들을 예방·해결할 것으로 기대하고 있다.\n\n하나금융은 또 해외 사업에서도 하나은행과 외환은행의 시너지 창출에 역점을 두고 있다. \n\n김정태 하나금융 회장은 “두 은행이 동시에 진출한 국가에서는 은행 간 시너지 창출 방안을 그룹 차원에서 실행할 것”이라며 “두 은행 모두 아직 진출하지 않은 국가에 대해서는 다양한 진출 방법을 분석해 각 은행의 핵심 역량을 발휘할 수 있도록 하겠다”고 말했다.\n\n김일규 기자 black0419@hankyung.com",
+  "published_at": "2012-10-10T15:31:11+09:00",
+  "author": "한국경제",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/2012101016001",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "하나금융지주": {
+        "original_mention": "하나금융지주",
+        "mapped_name": "하나금융지주",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "해외 영업망 확대와 글로벌 톱 50 목표를 위한 전략적 계획",
+        "stock_code": "086790"
+      },
+      "하나은행": {
+        "original_mention": "하나은행",
+        "mapped_name": "하나금융지주",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "해외 영업망 확대와 현지화 전략 추진",
+        "stock_code": "086790"
+      },
+      "외환은행": {
+        "original_mention": "외환은행",
+        "mapped_name": "하나금융지주",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "해외 현지에 진출한 국내 기업 지원 및 무역금융 중점",
+        "stock_code": "086790"
+      },
+      "하나대투증권": {
+        "original_mention": "하나대투증권",
+        "mapped_name": "하나금융지주",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "중국과 홍콩 등 해외 진출",
+        "stock_code": "086790"
+      },
+      "BNB은행": {
+        "original_mention": "BNB은행",
+        "mapped_name": "BNB은행",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "USA",
+        "sentiment": "중립",
+        "sentiment_reason": "미국 내 한국계 은행 중 유일한 연방은행 라이선스 보유",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "하나금융지주",
+        "target": "BNB은행",
+        "relation_type": "파트너",
+        "relation_reason": "미국 진출의 교두보 마련",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "086790",
+        "target_is_listed": false,
+        "target_country": "USA",
+        "target_ticker": null
+      }
+    ]
+  }
+}

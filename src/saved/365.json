@@ -1,0 +1,98 @@
+{
+  "title": "주가 오를만하면 '투자경고'…거래소 제도개선 착수 [마켓인사이트]",
+  "description": "주가 오를만하면 투자경고…거래소 제도개선 착수, 시총 2위 SK하이닉스 투자경고 거래소, 경보 요건 완화 검토",
+  "content": "영상 모듈 닫기\n                            \n                        \n                    \n                    \n                        \n                        $(function(){\n                            $('#floatingVideo button').on('click', function(){\n                                $('#floatingVideo').removeClass('active').addClass('stop');\n\n                            });\n    \n                            \n                            var videoHeight = $('#floatingVideo').height();\n                            $(window).on('scroll', function(){\n                                if($('#floatingVideo').hasClass('stop')){\n                                    return false;\n                                }\n                                var videoTop = $('#floatingVideo').offset().top;\n                                var scrTop = $(window).scrollTop();\n                                if( scrTop \n                    \n\n&lt;앵커&gt; 코스피를 대표하는 시총 2위 SK하이닉스가 투자경고 종목으로 지정되면서 투자자들의 원성이 커지고 있습니다.\n\n거래소는 제도 개편에 착수했는데 관련 내용 증권부 정원우 기자와 알아보겠습니다.\n\n정 기자, 먼저 어제 저녁에 거래소가 SK하이닉스 투자경고종목 지정과 관련해 이례적으로 해명을 내놨죠?\n\n&lt;기자&gt; 시장경보제도는 투자주의-투자경고-투자위험 단계로 지정이 이뤄지는데요, SK하이닉스는 두 번째 단계인 투자경고 종목으로 지정됐습니다. 과정부터 보겠는데요,\n\nSK하이닉스는 지난 8일 6%대 상승을 보이면서 투자주의 종목으로 지정 예고됐고 9일에 지정이 됐습니다. 그러자 다음날 주가가 1%대 하락했고요. 그 다음날(10일)에는 3.71% 올랐는데 한단계 높은 투자경고 종목으로 지정되면서 다음날 주가 상승분을 반납했습니다.\n\nSK하이닉스에는 이번주 들어서는 외국인들의 순매수가 몰리기도 했었습니다. 투자경고 종목으로 지정되면 최소 10일동안은 미수거래나 신용융자 매수가 막히면서 매매나 수급에 제약이 생기게 됩니다. 매매제약이 생기면서 상승 발목을 잡자 'SK하이닉스가 작전주냐'는 투자자들의 원망 섞인 목소리가 나왔습니다.\n\n그러자 거래소는 시장경보제도 개선에 착수하겠다고 어제 저녁에 이례적으로 공지를 냈습니다.\n\n&lt;앵커&gt; 코스닥 종목들 같은 경우 투자경보가 종종 울리긴 했었는데, SK하이닉스의 경우 역대급 실적을 이어가고 있는 상황인데, 투자경보가 어색하긴 합니다.\n\n&lt;기자&gt; SK하이닉스는 현재 코스피 시총 2위, 코스피를 대표하는 종목 중 하나고, 이번에 투자경고가 울린 것은 지난 2023년 4월 SG증권발 CFD 주가 하락 사태와 관련해 강화된 요건에 따른 것입니다.\n\n당시 초장기 상승 요건, 바로 지정 전일의 종가가 1년 전의 종가보다 200%이상 상승하면 지정요건이 된다는 내용추가 됐었습니다. SK하이닉스의 경우 1년 전 종가보다 244% 정도 상승했고 여러 요건들가지 겹치면서 투자경고에 이르게 됐습니다.\n\nSK하이닉스의 경우 올해 영업이익이 40조원을 넘어 거의 작년의 2배에 육박할 것으로 예상되고 있고, 영업이익률도 40%대로 건실한 실적을 보여주고 있는데 투자경고 종목이라는 어색한 상황에 놓이게 됐습니다.\n\n&lt;앵커&gt; 그런데, 시장경보제도는 과열을 진정시키기 위해서 필요한 부분도 있을 것 같은데요?\n\n&lt;기자&gt; 거래소의 경우 요건에 따라 기계적으로 지정과 해제를 하는 것이고 투자 과열을 식히기고 건전한 투자를 유도하기 위해 이렇게 시장경보제도를 운영하고 있습니다.\n\n그런데 앞서 말씀드린대로 SG발 주가 폭락 사태로 요건이 너무 과해졌다는데 문제가 있습니다.\n\n올해 코스피에서 투자경고 종목으로 어제까지 75건이 지정됐는데, 이미 작년 연간 44건에서 두배 가량 많아진 것이고요,\n\nSK하이닉스를 비롯해서 어제 SK스퀘어, 효성중공업, 한화오션, 현대로템, HD현대중공업, 두산에너빌리티, 코스피 주도주들은 한번씩은 다 투자경고 종목을 받았었습니다. \n\n&lt;앵커&gt; 거래소가 빠르게 제도 개선에 나선다고 하고 제도개선은 어떤 방향으로 이뤄진다고 봐야겠습니까?\n\n&lt;기자&gt; 거래소 시장감시위원회를 취재 해본 결과 앞서 SG증권발 주가 폭락사태 때 생겼던 1년 전보다 200% 이상 상승 요건은 삭제될 가능성이 높아보입니다.\n\n단순수익률이 아닌 주가지수 대비 초과수익률을 기준으로 변경하고 시가총액 상위종목을 제외하는 쪽으로 큰틀을 잡고 제도 개선이 이뤄질 것으로 보입니다.\n\n지금 코스피 5000 얘기가 나오는 상황에서 지금 요건으로는 더 많은 종목들이 투자경고에 노출될 수 밖에 없을 것이라는 상황을 고려한 것이고, 시총 상위 종목들은 상대적으로 건실한 기업들이 많기 때문에 대체적으로 요건에서 제외하는 쪽으로 가겠다는 것입니다.\n\n시감위에서는 안팎으로 협의 과정을 거쳐야 되기 때문에 시간은 좀 걸리겠지만, 최대한 빠른 시일 내에 거래소 규정을 고치겠다고 밝혔습니다.\n\n&lt;앵커&gt; 삼성화재는 좀 다른 이유지만 투자주의 종목 지정이 됐다 이건 어떻게 봐야겠습니까?\n\n&lt;기자&gt; 삼성화재는 어제 장 막판에 갑자기 상한가에 가깝게 상승하면서 주문실수가 아니냐는 분석이 나왔는데요, \n\n주식트레이더 얘기를 들어보니 삼성화재 거래량 자체가 많지 않았던 종목이고, 어제가 주가지수와 개별주식 선물·옵션 동시 만기일 이른바 '네 마녀의 날'이었고 기관의 수급이 두드러졌던 만큼 ETF 리밸런싱과 같은 영향으로 풀이했습니다. 수급상 요인이기 때문에 명확한 이유를 알기는 어려운 상황입니다. \n\n단시간에 주가가 변동했기 때문에 시감위에서는 즉각 투자주의 종목으로 지정했고 시간외거래와 오늘 정규장에서 다시 원래 가격 수준으로 돌아왔습니다. 딱히 호재나 이유가 없이 이상 이상한 움직임이 포착됐고 이것이 시장경보제도의 순기능이라고 할 수 있겠습니다. \n\n&lt;앵커&gt; 네 증권부 정원우 기자였습니다.\n\n[CG : 김가영, 배예지]\n\n정원우기자 bkjung@wowtv.co.kr\n                    \n                        \n                            \n[IMG]",
+  "published_at": "2025-12-12T14:34:01+09:00",
+  "author": "정원우 기자 bkjung@wowtv.co.kr",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202512/P384320251212000071017-000.png"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202512/AC.42662988.1.png",
+  "content_url": "https://www.hankyung.com/article/2025121202775",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "SK하이닉스": {
+        "original_mention": "SK하이닉스",
+        "mapped_name": "SK하이닉스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "투자경고 종목 지정으로 인한 투자자 불만",
+        "stock_code": "000660"
+      },
+      "SK스퀘어": {
+        "original_mention": "SK스퀘어",
+        "mapped_name": "SK스퀘어",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "투자경고 종목 지정",
+        "stock_code": "402340"
+      },
+      "효성중공업": {
+        "original_mention": "효성중공업",
+        "mapped_name": "효성중공업",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "투자경고 종목 지정",
+        "stock_code": "298040"
+      },
+      "한화오션": {
+        "original_mention": "한화오션",
+        "mapped_name": "한화오션",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "투자경고 종목 지정",
+        "stock_code": "009540"
+      },
+      "현대로템": {
+        "original_mention": "현대로템",
+        "mapped_name": "현대로템",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "투자경고 종목 지정",
+        "stock_code": "064350"
+      },
+      "HD현대중공업": {
+        "original_mention": "HD현대중공업",
+        "mapped_name": "HD현대중공업",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "투자경고 종목 지정",
+        "stock_code": "329180"
+      },
+      "두산에너빌리티": {
+        "original_mention": "두산에너빌리티",
+        "mapped_name": "두산에너빌리티",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "투자경고 종목 지정",
+        "stock_code": "034020"
+      },
+      "삼성화재": {
+        "original_mention": "삼성화재",
+        "mapped_name": "삼성화재",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "투자주의 종목 지정",
+        "stock_code": "000810"
+      }
+    },
+    "relations": []
+  }
+}

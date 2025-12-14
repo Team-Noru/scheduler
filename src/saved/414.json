@@ -1,0 +1,68 @@
+{
+  "title": "LG에너지솔루션, 중장기 수주 구조 재정의…‘단순 배터리’가 아니라 고객사 CAPEX 로드맵의 일부로 해석 전환",
+  "description": "LG에너지솔루션, 중장기 수주 구조 재정의…단순 배터리’가 아니라 고객사 CAPEX 로드맵의 일부로 해석 전환, 증권",
+  "content": "[IMG]\n\n                            \n                        \n                         \n                    \n                \n\nLG에너지솔루션을 둘러싼 최근 시장 분위기는 단순한 실적 개선 기대가 아니라, 수주 구조가 “연 단위 계약”에서 “CAPEX 라인업에 포함되는 전략 모듈”로 읽히기 시작한 데 있다. 전기차 기업들이 수요 부진 우려 속에서도 배터리 발주를 갑자기 꺾지 못하는 이유는, 완성차의 생산계획·설비 투자·차세대 플랫폼 전환이 한 묶음이기 때문이다.\n\n즉 배터리 발주는 생산량 예측 기반 발주가 아니라 “제조전략 확정 신호”에 더 가까워졌고, 이 지점이 최근 투자심리에서 핵심 축으로 작동하고 있다. 그래서 시장은 이 회사를 더 이상 “셀 단가 민감도 높은 업체”가 아니라 “전기차 기업들의 CAPEX 계획을 미리 드러내는 구조적 윈도우”로 읽는다. 배터리가 비용 항목에서 전략 항목으로 천천히 옮겨 붙는 과정이 가격 언어에 반영되는 장면이다.\n\n수요 측에서는 EV 전환 속도 논란과 별개로, 차세대 플랫폼에서 칩·모터·감속기·열관리 구성의 단가 대체 불가성이 더 강해지고 있다. 이 흐름은 배터리 교체주기보다 배터리 체급 변화를 먼저 본다. 즉 투자자들은 과거처럼 배터리 사이클을 “생산→단가→실적” 순으로 보지 않고, “차세대 플랫폼 확정→CAPEX 라인업 고정→배터리 수주 구조 재정의” 순으로 본다.\n\n최근 LG에너지솔루션에 대한 평가가 바뀐 건 바로 이 지점 때문이다. 내년·내후년이 “EV 판매량 회복 구간인가?”가 아니라, “차세대 플랫폼 확정이 언제부터 본격 반영되는가?”가 더 중요해진 것이다. 시장은 이 회사의 위치를 “판매량 결과”보다 “결과를 만들기 직전 단계”로 둔다. 그래서 숫자보다 방향이 먼저 가격을 움직인다.\n\n리스크는 여전히 남는다. 글로벌 완성차의 재고관리 전략 변화, 정책보조금의 단계적 축소, 북미 지역 정산·법안 타임라인 등은 모두 배터리 업체의 마진·납기·설비 투자계획에 흔들림을 줄 수 있다. 하지만 이번 흐름은 리스크를 모르는 게 아니라, 그 리스크를 덮어버릴 정도로 “플랫폼 전환의 시계열”이 시장에서 더 설득력을 갖기 시작했다는 의미다.\n\nLG에너지솔루션, HJ중공업, 피아이이, 코리아써키트, 유투바이오\n\n무료상담",
+  "published_at": "2025-11-06T13:18:01+09:00",
+  "author": "한국경제",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202511/0D.42295178.1.png"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202511/0D.42295178.1.png",
+  "content_url": "https://www.hankyung.com/article/202511067238a",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "LG에너지솔루션": {
+        "original_mention": "LG에너지솔루션",
+        "mapped_name": "LG에너지솔루션",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "수주 구조의 전략적 전환과 시장에서의 긍정적 평가",
+        "stock_code": "373220"
+      },
+      "HJ중공업": {
+        "original_mention": "HJ중공업",
+        "mapped_name": "HJ중공업",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기사 내에서 구체적인 평가나 언급 없음",
+        "stock_code": "097230"
+      },
+      "피아이이": {
+        "original_mention": "피아이이",
+        "mapped_name": "피아이이",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기사 내에서 구체적인 평가나 언급 없음",
+        "stock_code": "347740"
+      },
+      "코리아써키트": {
+        "original_mention": "코리아써키트",
+        "mapped_name": "코리아써키트",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기사 내에서 구체적인 평가나 언급 없음",
+        "stock_code": "007810"
+      },
+      "유투바이오": {
+        "original_mention": "유투바이오",
+        "mapped_name": "유투바이오",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기사 내에서 구체적인 평가나 언급 없음",
+        "stock_code": "221800"
+      }
+    },
+    "relations": []
+  }
+}

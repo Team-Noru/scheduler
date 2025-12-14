@@ -1,0 +1,68 @@
+{
+  "title": "영구채 찍고 부동산 팔고…금융지주 자본확충 총력",
+  "description": "영구채 찍고 부동산 팔고…금융지주 자본확충 총력, 생산적 금융 위해 자본비율 관리 농협, 3400억 영구채 조달 추진 우리, 안성연수원 등 잇단 처분",
+  "content": "국내 주요 금융지주가 자본 건전성을 개선하기 위해 총력전에 나섰다. 신종자본증권(영구채) 발행과 유휴 부동산 매각 등을 통해 자본비율을 끌어올리겠다는 구상이다. 정부가 추진하는 생산적 금융 전환에 발맞춰 선제적 자본비율 관리에 들어갔다는 분석이 나온다.\n\n\n                    \n                        \n                            \n[IMG]\n\n                            \n                        \n                        \n                    \n                4일 금융권에 따르면 농협금융은 3400억원 규모의 영구채 조달을 추진 중이다. 이날 수요예측을 진행한 뒤 오는 12일 최종 발행할 예정이다. 최대 5000억원까지 증액할 방침인 것으로 알려졌다. 농협금융이 영구채를 찍는 것은 올해 들어 처음이다.\n\n농협금융이 영구채 발행 카드를 꺼낸 것은 자본 건전성을 개선하기 위해서다. 영구채는 재무제표 산정 시 부채가 아니라 자본으로 인정된다. 발행할수록 자본이 늘어나는 효과가 있다. 이번 영구채 발행으로 농협금융의 국제결제은행(BIS) 기준 자본비율은 기존보다 0.16%포인트 상승할 전망이다. BIS 자본비율은 은행이 자기자본을 충분히 쌓아두고 있는지를 보여주는 대표적인 지표다.\n\nBNK금융도 지난달 1500억원 규모 영구채를 찍었다. 발행액을 기존 1050억원에서 1500억원으로 늘렸다. 기업은행도 이달 최대 4000억원 규모의 영구채를 발행할 계획이다.\n\n자본 건전성 관리를 위해 유휴 부동산 처분에 나선 금융지주도 속속 등장하고 있다. 우리은행은 지난달 30일 경기 안성에 있는 연수원을 매각했다. 올해 들어 안성연수원을 비롯해 삼성중앙역지점, 당산동지점, 도농운동장 등도 팔았다. 국민은행도 5월부터 유휴 부동산 처분을 추진하고 있다. 현재까지 까치산역지점, 조원동지점, 둔산크로바지점 매각 절차를 마무리했다.\n\n유휴 부동산을 매각하면 금융지주의 자본 건전성 지표가 개선되는 효과를 볼 수 있다. 유휴 부동산은 BIS 자본비율의 분모에 해당하는 위험가중자산(RWA)에 포함된다. 유휴 부동산을 처분하면 RWA가 줄어들어 자본비율 제고에 도움이 된다.\n\n현재 5대 금융지주의 BIS 자본비율은 금융당국 권고치(15%)를 웃돈다. 내년부터 RWA 부담이 큰 기업대출·모험자본 등이 대폭 늘어나는 만큼 연말까지 자본비율을 미리 끌어올려 놓겠다는 계산이다.\n\n장현주 기자 blacksea@hankyung.com",
+  "published_at": "2025-11-04T17:07:43+09:00",
+  "author": "장현주",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202511/AA.42276963.1.jpg"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202511/AA.42276963.1.jpg",
+  "content_url": "https://www.hankyung.com/article/2025110435601",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "농협금융": {
+        "original_mention": "농협금융",
+        "mapped_name": "농협금융",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "자본 건전성을 개선하기 위해 영구채 발행을 추진 중임.",
+        "stock_code": null
+      },
+      "BNK금융": {
+        "original_mention": "BNK금융",
+        "mapped_name": "BNK금융",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "자본 건전성을 개선하기 위해 영구채 발행을 완료함.",
+        "stock_code": null
+      },
+      "기업은행": {
+        "original_mention": "기업은행",
+        "mapped_name": "기업은행",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "자본 건전성을 개선하기 위해 영구채 발행을 계획 중임.",
+        "stock_code": null
+      },
+      "우리금융지주": {
+        "original_mention": "우리은행",
+        "mapped_name": "우리금융지주",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "자본 건전성을 개선하기 위해 유휴 부동산을 매각함.",
+        "stock_code": null
+      },
+      "KB금융": {
+        "original_mention": "국민은행",
+        "mapped_name": "KB금융",
+        "listing_status": "상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "자본 건전성을 개선하기 위해 유휴 부동산을 매각 중임.",
+        "stock_code": null
+      }
+    },
+    "relations": []
+  }
+}

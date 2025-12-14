@@ -1,0 +1,78 @@
+{
+  "title": "POSCO홀딩스, 철강 부진·배터리 투자 지연·수급 불확실성에 주가 조정 국면",
+  "description": "POSCO홀딩스, 철강 부진·배터리 투자 지연·수급 불확실성에 주가 조정 국면, 증권",
+  "content": "[IMG]\n\n                            \n                        \n                         \n                    \n                \n\n최근 POSCO홀딩스 주가는 지속적인 약세 흐름을 보이며 조정 국면에 진입했다. 주요 원인은 글로벌 철강 수요 둔화와 2차전지 소재 사업의 부진이다. 중국 경제 둔화에 따라 철강 가격과 수요가 하락했고, 이는 국내외 철강 자회사들의 수익성 압박으로 이어졌다. 동시에 핵심 먹거리로 꼽혔던 배터리 소재사업은 원자재 가격 하락과 투자 지연으로 기대에 못 미치는 실적 흐름을 보여주며 투자 심리를 위축시켰다.\n\n더욱이, 미국의 고율 철강 관세 강화 조치가 아시아 생산업체에 대한 수출 경쟁 부담을 가중시키고 있다. 미국발 무역 압력은 POSCO홀딩스의 해외사업 전략에 리스크 요인으로 작용하며 주가에 부정적 영향을 주고 있다. 증권사 보고서에서는 중국 철강 공급 과잉 완화 조짐과 향후 회복 가능성이 기대되긴 하나, 현재 시점에서 실적 반등 여지는 제한적이라는 분석이 우세하다.\n\n수급 구조 측면에서도 주가 약세는 가속화됐다. 외국인과 기관 투자자 사이에서 순매도의 흐름이 지속되었으며, 거래량이 증가한 기간에도 실질적인 반등 없이 압박이 이어지며 조정 폭을 확대했다는 평가다.\n\n종합하면, POSCO홀딩스의 최근 주가 조정은 철강 업황 둔화, 2차전지 사업 실적 기대 미달, 미국 관세 리스크, 수급 불균형 등의 복합 요인에 따른 결과다. 시장에서는 이미 상당한 밸류에이션 하락이 반영됐다는 일부의 ‘바닥론’도 나오지만, 향후 주가 반등의 전제조건으로는 철강 및 배터리 사업의 실질 수익성 회복과 미국 수출 리스크 해소, 그리고 수급 안정화가 꼽힌다. 전문가들은 실적 흐름이나 정책 모멘텀에 변화가 나타나지 않으면 현재 조정 국면이 장기화될 가능성도 열어두고 있다.\n\n한화엔진, 코미코, 한국카본, 엔알비, 한화비전\n\n무료상담",
+  "published_at": "2025-07-29T13:23:01+09:00",
+  "author": "한국경제",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202507/0D.41250653.1.png"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202507/0D.41250653.1.png",
+  "content_url": "https://www.hankyung.com/article/202507298057a",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "POSCO홀딩스": {
+        "original_mention": "POSCO홀딩스",
+        "mapped_name": "POSCO홀딩스",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "부정",
+        "sentiment_reason": "철강 수요 둔화, 배터리 투자 지연, 미국 관세 리스크 등으로 주가 조정",
+        "stock_code": "005490"
+      },
+      "한화엔진": {
+        "original_mention": "한화엔진",
+        "mapped_name": "한화엔진",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "",
+        "stock_code": "045100"
+      },
+      "코미코": {
+        "original_mention": "코미코",
+        "mapped_name": "코미코",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "",
+        "stock_code": "183300"
+      },
+      "한국카본": {
+        "original_mention": "한국카본",
+        "mapped_name": "한국카본",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "",
+        "stock_code": "017960"
+      },
+      "엔알비": {
+        "original_mention": "엔알비",
+        "mapped_name": "엔알비",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "",
+        "stock_code": null
+      },
+      "한화비전": {
+        "original_mention": "한화비전",
+        "mapped_name": "한화비전",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "",
+        "stock_code": null
+      }
+    },
+    "relations": []
+  }
+}

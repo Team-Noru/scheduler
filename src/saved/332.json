@@ -1,0 +1,91 @@
+{
+  "title": "글로벌 수요 회복 + 북미 생산 확대… LG에너지솔루션, 반등의 실마리 다시 잡았다",
+  "description": "글로벌 수요 회복 + 북미 생산 확대… LG에너지솔루션, 반등의 실마리 다시 잡았다, 증권",
+  "content": "[IMG]\n\n                            \n                        \n                         \n                    \n                \n\n글로벌 배터리 업계의 중심에 있는 LG에너지솔루션이 2025년 들어 다시 주목받기 시작했다. 3분기 실적 발표에서 매출은 다소 줄었음에도 영업이익이 크게 개선되는 ‘이익 체질 회복’이 나타났고, 북미 중심의 수주 및 생산 기반 확장, 그리고 자율주행용 EV 및 에너지저장장치(ESS) 수요 회복 기대가 맞물리며 향후 성장성이 다시 부각되고 있다.\n\nLG에너지솔루션은 2025년 3분기 매출 5조 6999억원, 영업이익 6013억원을 기록했다. 매출은 전년 동기 대비 17.1% 줄었지만, 영업이익은 34.1% 증가했으며, 분기 기준으로 견조한 실적 회복을 보여준 것이다. 회사 측은 ESS 및 소형 배터리 사업 출하량 증가와 함께 원가 절감 및 생산 효율화가 이익 개선을 이끌었다고 설명했다.\n\n이 같은 실적 개선은 단순한 일시 반등이 아니라, 시장 구조 변화와 공급망 재편이라는 더 큰 흐름 속에서 나왔다는 점이 중요하다. 올해 글로벌 전기차 및 배터리 시장은 저점 구간을 어느 정도 지나가는 모양새이고, ESS 수요 회복과 함께 전기차 수요도 완만하게나마 회복 조짐을 보이는 지역이 늘고 있다. 특히 북미 시장에서는 자국 내 배터리 제조 기반을 강화하려는 흐름이 강해, LG에너지솔루션이 현지에 구축한 공장이 실적 안정성과 성장의 핵심 교두보로 작용할 수 있다는 평가가 많다.\n\n게다가 최근 글로벌 완성차 브랜드인 메르세데스-벤츠와 2028년부터 2035년까지 유럽 및 북미 전기차용 배터리 공급 계약을 체결한 것도 회사의 향후 밸류에이션에 긍정적 신호다. 계약 금액은 약 14억 달러, 국내 매출 대비 적지 않은 규모로 이뤄졌으며, 안정적인 수요처 확보라는 의미가 크다.\n\n시장에서는 이번 계약이 고성능 원통형, 각형, 파우치형 등 다양한 배터리 폼팩터 라인업을 갖춘 LG에너지솔루션의 기술력과 공급 역량을 다시 한번 입증한 것으로 본다. 앞서 회사는 고니켈(NCMA), 미드니켈, 파우치형 LFP, 각형 LMR 등 주요 EV 및 ESS용 배터리 화학조성과 폼팩터 모두에서 대응 가능한 ‘멀티 체제’ 공급 능력을 강조해 왔다.\n\n결국, LG에너지솔루션은 최근 실적 회복 + 북미 공급망 확보 + 글로벌 완성차 공급 계약이라는 삼박자가 맞물리며 ‘저점 탈출’ + ‘중장기 성장 기반 구축’ 구간에 진입했다는 평가가 많다. 다만, EV 시장 회복 속도, 원자재 가격, 경쟁 심화, 글로벌 경기 흐름 등 외부 변수도 여전히 존재하는 만큼 단기 과열보다는 ‘지속 가능한 수요 확보와 수익 안정성’이 관건으로 꼽힌다.\n\nLG에너지솔루션, 산일전기, HD한국조선해양, LS ELECTRIC, POSCO홀딩스\n\n무료상담",
+  "published_at": "2025-12-08T13:48:01+09:00",
+  "author": "한국경제",
+  "image_urls": [
+    "https://img.hankyung.com/photo/202512/0D.42614534.1.png"
+  ],
+  "thumbnail_url": "https://img.hankyung.com/photo/202512/0D.42614534.1.png",
+  "content_url": "https://www.hankyung.com/article/202512089549a",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "LG에너지솔루션": {
+        "original_mention": "LG에너지솔루션",
+        "mapped_name": "LG에너지솔루션",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "긍정",
+        "sentiment_reason": "실적 회복과 북미 공급망 확보, 글로벌 완성차 공급 계약 체결로 인한 긍정적 평가",
+        "stock_code": "373220"
+      },
+      "산일전기": {
+        "original_mention": "산일전기",
+        "mapped_name": "산일전기",
+        "listing_status": "상장",
+        "exchange": "KOSDAQ",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기사 내에서 직접적인 언급이 없어 중립적 평가",
+        "stock_code": "038540"
+      },
+      "HD한국조선해양": {
+        "original_mention": "HD한국조선해양",
+        "mapped_name": "HD한국조선해양",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기사 내에서 직접적인 언급이 없어 중립적 평가",
+        "stock_code": "009540"
+      },
+      "LS ELECTRIC": {
+        "original_mention": "LS ELECTRIC",
+        "mapped_name": "LS ELECTRIC",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기사 내에서 직접적인 언급이 없어 중립적 평가",
+        "stock_code": "010120"
+      },
+      "POSCO홀딩스": {
+        "original_mention": "POSCO홀딩스",
+        "mapped_name": "POSCO홀딩스",
+        "listing_status": "상장",
+        "exchange": "KOSPI",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "기사 내에서 직접적인 언급이 없어 중립적 평가",
+        "stock_code": "005490"
+      },
+      "메르세데스-벤츠": {
+        "original_mention": "메르세데스-벤츠",
+        "mapped_name": "메르세데스-벤츠",
+        "listing_status": "비상장",
+        "exchange": "",
+        "country": "Germany",
+        "sentiment": "긍정",
+        "sentiment_reason": "LG에너지솔루션과의 공급 계약 체결로 인한 긍정적 평가",
+        "stock_code": null
+      }
+    },
+    "relations": [
+      {
+        "source": "LG에너지솔루션",
+        "target": "메르세데스-벤츠",
+        "relation_type": "공급사",
+        "relation_reason": "전기차용 배터리 공급 계약 체결",
+        "source_is_listed": true,
+        "source_country": "Korea",
+        "source_ticker": "373220",
+        "target_is_listed": false,
+        "target_country": "Germany",
+        "target_ticker": null
+      }
+    ]
+  }
+}

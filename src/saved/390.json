@@ -1,0 +1,116 @@
+{
+  "title": "02일, 외국인 거래소에서 두산에너빌리티(+0.13%), 한화오션(+1.05%) 등 순매도",
+  "description": "02일, 외국인 거래소에서 두산에너빌리티(+0.13%), 한화오션(+1.05%) 등 순매도, 증권",
+  "content": "외국인 투자자는 02일 거래소에서 두산에너빌리티, 한화오션, 한미반도체 등을 중점적으로 매도한 것으로 나타났다.\n\n외국인 투자자의 순매도 상위 20개 종목은 두산에너빌리티, 한화오션, 한미반도체, LG에너지솔루션, NAVER, 코리아써키트, 한국항공우주, 우리금융지주, HD현대중공업, 롯데관광개발등이다.\n\n이중에 운수장비 업종에 속한 종목이 4개 포함되어 있다.\n\n두산에너빌리티, 한화오션, LG에너지솔루션 등은 전일 대비 주가가 상승했고, 한미반도체, 코리아써키트, 한국항공우주 등은 주가가 하락했다.\n\n[12월02일]거래소 외국인 순매도 상위 종목\n\n\n\n\n\n한경로보뉴스\n\n이 기사는 한국경제신문과 금융 AI 전문기업 씽크풀이 공동 개발한 기사 자동생성 알고리즘에 의해 실시간으로 작성된 것입니다.",
+  "published_at": "2025-12-02T18:35:10+09:00",
+  "author": "한경로보뉴스",
+  "image_urls": [],
+  "thumbnail_url": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+  "content_url": "https://www.hankyung.com/article/202512029466L",
+  "publisher": "한국경제",
+  "analysis": {
+    "companies": {
+      "두산에너빌리티": {
+        "original_mention": "두산에너빌리티",
+        "mapped_name": "두산에너빌리티",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "034020"
+      },
+      "한화오션": {
+        "original_mention": "한화오션",
+        "mapped_name": "한화오션",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "042660"
+      },
+      "한미반도체": {
+        "original_mention": "한미반도체",
+        "mapped_name": "한미반도체",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "042700"
+      },
+      "LG에너지솔루션": {
+        "original_mention": "LG에너지솔루션",
+        "mapped_name": "LG에너지솔루션",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "373220"
+      },
+      "NAVER": {
+        "original_mention": "NAVER",
+        "mapped_name": "NAVER",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "035420"
+      },
+      "코리아써키트": {
+        "original_mention": "코리아써키트",
+        "mapped_name": "코리아써키트",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "007810"
+      },
+      "한국항공우주": {
+        "original_mention": "한국항공우주",
+        "mapped_name": "한국항공우주",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "047810"
+      },
+      "우리금융지주": {
+        "original_mention": "우리금융지주",
+        "mapped_name": "우리금융지주",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "316140"
+      },
+      "HD현대중공업": {
+        "original_mention": "HD현대중공업",
+        "mapped_name": "HD현대중공업",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "329180"
+      },
+      "롯데관광개발": {
+        "original_mention": "롯데관광개발",
+        "mapped_name": "롯데관광개발",
+        "listing_status": "상장",
+        "exchange": "Korea Exchange",
+        "country": "Korea",
+        "sentiment": "중립",
+        "sentiment_reason": "외국인 투자자의 순매도 상위 종목에 포함",
+        "stock_code": "032350"
+      }
+    },
+    "relations": []
+  }
+}
