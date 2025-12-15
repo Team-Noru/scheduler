@@ -7,7 +7,7 @@ async function searchNews(keyword) {
 
   const searchUrl = `https://search.hankyung.com/search/news?query=${encodeURIComponent(
     keyword
-  )}&sort=RANK%2FDESC%2CDATE%2FDESC&period=ALL&area=title&exact=&include=&except=&hk_only=`;
+  )}&sort=DATE%2FDESC%2CRANK%2FDESC&period=ALL&area=title&exact=&include=&except=&hk_only=y`;
 
   const { data: html } = await axios.get(searchUrl, {
     headers: {
@@ -40,7 +40,7 @@ async function searchNews(keyword) {
     links.push(fullUrl);
 
     // 👉 이미 3개 모였으면 loop 종료
-    if (links.length >= 10) return false;
+    if (links.length >= 5) return false;
   });
 
   return links;

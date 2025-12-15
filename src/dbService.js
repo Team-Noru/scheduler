@@ -8,16 +8,23 @@ async function findOrCreateCompany(company) {
   const conn = await pool.getConnection();
   try {
     const name = company.mapped_name;
+    const stockCode = company.stock_code ?? null;
 
-    // 기존 기업 검색
-    const [rows] = await conn.query(
-      "SELECT company_id FROM companies WHERE name = ?",
+    // 1️⃣ stock_code가 있으면 stock_code로 먼저 검색
+    if (stockCode) {
+      const [rows] = await conn.query(
+        "SELECT company_id FROM companies WHERE stock_code = ? LIMIT 1",
+        [stockCode]
+      );
+      if (rows.length > 0) return rows[0].company_id;
+    }
+
+    // 2️⃣ stock_code가 없으면 name으로 검색
+    const [rowsByName] = await conn.query(
+      "SELECT company_id FROM companies WHERE name = ? LIMIT 1",
       [name]
     );
-    if (rows.length > 0) return rows[0].company_id;
-
-    // analyzer에서 제공한 stock_code 우선 사용
-    const stockCode = company.stock_code ?? null;
+    if (rowsByName.length > 0) return rowsByName[0].company_id;
 
     const isDomestic = company.country === "Korea";
     const isListed = company.listing_status === "상장";

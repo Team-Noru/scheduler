@@ -3,12 +3,17 @@ const cheerio = require("cheerio");
 
 function cleanText(html) {
   return html
+    .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, "")   // 스크립트 전체 삭제
+    .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, "")     // 스타일 전체 삭제
+    .replace(/<video[^>]*>[\s\S]*?<\/video>/gi, "")     // 비디오 제거
+    .replace(/<iframe[^>]*>[\s\S]*?<\/iframe>/gi, "")   // iframe 제거
     .replace(/<br\s*\/?>/gi, "\n")
     .replace(/<[^>]*>/g, "")
     .replace(
       /본문 글씨 줄이기|본문 글씨 키우기|바로가기|복사하기|다른 공유 찾기|이 기사를 공유합니다|페이스북|트위터|카카오톡/g,
       ""
     )
+    .replace(/무료상담/g, "")
     .trim();
 }
 
