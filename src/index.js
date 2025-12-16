@@ -44,7 +44,7 @@ async function main() {
 
       // 2) GPT 분석
       const analysis = await analyzeArticle(article);
-      const finalData = { ...article, analysis };
+      const finalData = { ...article, summary: analysis.summary, analysis };
 
       const companies = analysis?.companies ?? {};
 

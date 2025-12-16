@@ -10,7 +10,6 @@ async function findOrCreateCompany(company) {
     const name = company.mapped_name;
     const stockCode = company.stock_code ?? null;
 
-    // 1️⃣ stock_code가 있으면 stock_code로 먼저 검색
     if (stockCode) {
       const [rows] = await conn.query(
         "SELECT company_id FROM companies WHERE stock_code = ? LIMIT 1",
@@ -19,7 +18,6 @@ async function findOrCreateCompany(company) {
       if (rows.length > 0) return rows[0].company_id;
     }
 
-    // 2️⃣ stock_code가 없으면 name으로 검색
     const [rowsByName] = await conn.query(
       "SELECT company_id FROM companies WHERE name = ? LIMIT 1",
       [name]
@@ -28,8 +26,6 @@ async function findOrCreateCompany(company) {
 
     const isDomestic = company.country === "Korea";
     const isListed = company.listing_status === "상장";
-
-    console.log(`📌 신규 기업 추가: ${name} / stock_code=${stockCode}`);
 
     const [result] = await conn.query(
       `
@@ -46,7 +42,7 @@ async function findOrCreateCompany(company) {
 }
 
 // ========================================================
-// 2) 뉴스 INSERT
+// 2) 뉴스 INSERT (summary 포함)
 // ========================================================
 async function insertNews(article, companyId) {
   const conn = await pool.getConnection();
@@ -54,15 +50,16 @@ async function insertNews(article, companyId) {
     const [result] = await conn.query(
       `
       INSERT INTO news
-      (company_id, title, description, content, published_at, author,
+      (company_id, title, description, content, summary, published_at, author,
        content_url, thumbnail_url, publisher)
-      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
       `,
       [
         companyId,
         article.title,
         article.description,
         article.content,
+        article.summary ?? null,
         article.published_at,
         article.author,
         article.content_url,
@@ -78,8 +75,6 @@ async function insertNews(article, companyId) {
 }
 
 // ========================================================
-// 3) 뉴스 이미지 INSERT
-// ========================================================
 async function insertNewsImages(newsId, imageUrls) {
   if (!imageUrls || imageUrls.length === 0) return;
 
@@ -87,10 +82,7 @@ async function insertNewsImages(newsId, imageUrls) {
   try {
     for (const url of imageUrls) {
       await conn.query(
-        `
-        INSERT INTO news_images (image_url, news_id)
-        VALUES (?, ?)
-        `,
+        `INSERT INTO news_images (image_url, news_id) VALUES (?, ?)`,
         [url, newsId]
       );
     }
@@ -99,8 +91,6 @@ async function insertNewsImages(newsId, imageUrls) {
   }
 }
 
-// ========================================================
-// 4) 기업 감정 INSERT
 // ========================================================
 async function insertCompanySentiment(newsId, companyId, companyObj) {
   const conn = await pool.getConnection();
@@ -119,8 +109,6 @@ async function insertCompanySentiment(newsId, companyId, companyObj) {
 }
 
 // ========================================================
-// 5) 뉴스 중복 체크
-// ========================================================
 async function checkNewsExists(url) {
   const conn = await pool.getConnection();
   try {
@@ -134,7 +122,6 @@ async function checkNewsExists(url) {
   }
 }
 
-// EXPORT
 module.exports = {
   findOrCreateCompany,
   insertNews,

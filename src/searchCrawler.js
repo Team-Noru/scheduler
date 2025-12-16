@@ -40,7 +40,7 @@ async function searchNews(keyword) {
     links.push(fullUrl);
 
     // 👉 이미 3개 모였으면 loop 종료
-    if (links.length >= 5) return false;
+    if (links.length >= 3) return false;
   });
 
   return links;
